@@ -583,25 +583,22 @@ challenges:
             - '&e- 3 bloques de redstone'
             - '&e- 3 bloques de lapislazuli'
             - '&e- 5000 $'
-  '2':
+   '2':
     id: 2
     name: '&aSkyBlock &8| &ePrincipiante'
     # All challenges
     challenges:
       '1':
         id: 1
-        name: '&2Cocinero'
+        name: '&2Pastelero'
         require:
-          - 'ITEM:cake 16'
+          - 'ITEM:cake 5'
           - 'ITEM:pumpkin_pie 16'
-          - 'ITEM:coockie 256'
-          - 'ITEM:cooked_chicken 64'
-          - 'ITEM:cooked_porkchop 64'
         reward:
-          - 'CMD:eco give {player} 500'
-          - 'ITEM:diamond_block 1'
+          - 'CMD:eco give {player} 300'
+          - 'ITEM:diamond 10'
           - 'ITEM:cow_spawn_egg 1'
-        maxtimes: 4
+        maxtimes: 1
         showInChat: true
         item:
           show: true
@@ -610,32 +607,27 @@ challenges:
           item: cake
           amount: 1
           lore:
-            - '&c&lPara completar el reto necesitas:'
-            - '&e- 16 tartas'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 5 tartas'
             - '&e- 16 tartas de calabaza'
-            - '&e- 4 stacks de galletas¡
-            - '&e- 1 stack de carne cocinada de pollo'
-            - '&e- 1 stack de carne cocinada de cerdo'
-            - '&c&lRecompensa:'
-            - '&e- 1 bloque de diamantes'
-            - '&e- 1 spawn de vaca'
-            - '&e- 500 $'
+            - '&c&lObtendrás:'
+            - '&e- 10 diamantes'
+            - '&e- 1 huevo de vaca'
+            - '&e- 300 $'
       '2':
         id: 2
         name: '&2Cazador'
         require:
-          - 'ITEM:rotten_flesh 256'
-          - 'ITEM:string 256'
-          - 'ITEM:gunpowder 256'
-          - 'ITEM:arrow 256'
-          - 'ITEM:bone 256'
+          - 'ITEM:rotten_flesh 64'
+          - 'ITEM:string 64'
+          - 'ITEM:gunpowder 64'
+          - 'ITEM:arrow 64'
+          - 'ITEM:bone 64'
         reward:
-          - 'CMD:eco give {player} 500'
-          - 'ITEM:sponge 1'
-          - 'ITEM:vine 1'
-          - 'ITEM:anvil 1'
-          - 'ITEM:enchanting_table'
-        maxtimes: 1
+          - 'CMD:eco give {player} 250'
+          - 'ITEM:iron_ingot 16'
+          - 'ITEM:redstone_block 8'
+        maxtimes: 5
         showInChat: true
         item:
           show: true
@@ -644,21 +636,19 @@ challenges:
           item: bow
           amount: 1
           lore:
-            - '&c&lPara completar el reto necesitas:'
-            - '&e- 4 stacks de carne podrida'
-            - '&e- 4 stacks de hilos'
-            - '&e- 4 stacks de polvora'
-            - '&e- 4 stacks de flechas'
-            - '&e- 4 stacks de huesos'
-            - '&c&lRecompensa:'
-            - '&e- 1 esponja seca'
-            - '&e- 1 enredadera'
-            - '&e- 1 yunque'
-            - '&e- 1 mesa de encantamientos'
-            - '&e- 500 $'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 1 stack de carne de zombie'
+            - '&e- 1 stack de cuerda'
+            - '&e- 1 stack of pólvora'
+            - '&e- 1 stack de flechas'
+            - '&e- 1 stack de huesos'
+            - '&c&lObtendrás :'
+            - '&e- 16 lingotes de hierro'
+            - '&e- 8 bloques de redstone'
+            - '&e- 250 $'
       '3':
         id: 3
-        name: '&2Granjero II'
+        name: '&2Primera cosecha'
         require:
           - 'ITEM:wheat 64'
           - 'ITEM:sugar_cane 64'
@@ -669,7 +659,7 @@ challenges:
         reward:
           - 'ITEM:cocoa_beans 5'
           - 'ITEM:sheep_spawn_egg 1'
-        maxtimes: 4
+        maxtimes: 5
         showInChat: true
         item:
           show: true
@@ -678,19 +668,19 @@ challenges:
           item: diamond_hoe
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 1 stack of wheat'
-            - '&e- 1 stack of sugar cane'
-            - '&e- 1 stack of melon slices'
-            - '&e- 1 stack of pumpkins'
-            - '&e- 1 stack of carrots'
-            - '&e- 1 stack of potatoes'
-            - '&c&lRewards:'
-            - '&e- 5 cocoa beans'
-            - '&e- 1 sheep spawn egg'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 1 stack de trigo'
+            - '&e- 1 stack de caña de azúcar'
+            - '&e- 1 stack de melón'
+            - '&e- 1 stack de calabazas'
+            - '&e- 1 stack de zanahorias'
+            - '&e- 1 stack de patatas'
+            - '&c&lObtendrás:'
+            - '&e- 5 de cacao'
+            - '&e- 1 huevo de oveja'
       '4':
         id: 4
-        name: '&2Fisher'
+        name: '&2Pescador'
         require:
           - 'ITEM:cooked_cod 25'
           - 'ITEM:cooked_salmon 20'
@@ -707,40 +697,16 @@ challenges:
           item: fishing_rod
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 25 cooked cod'
-            - '&e- 20 cooked salmon'
-            - '&c&lRewards:'
-            - '&e- 5 ink sacks'
-            - '&e- 1 chicken spawn egg'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 25 bacalao cocinado'
+            - '&e- 20 salmón cocinado'
+            - '&c&lObtendrás:'
+            - '&e- 5 sacos de tinta'
+            - '&e- 1 huevo de pollo'
             - '&e- 300 $'
-      '5':
-        id: 5
-        name: '&2Taster'
-        require:
-          - 'ITEM:cookie 128'
-          - 'ITEM:milk_bucket 2'
-        reward:
-          - 'CMD:eco give {player} 250'
-          - 'ITEM:emerald_block 2'
-        maxtimes: 5
-        showInChat: false
-        item:
-          show: false
-          row: 1
-          col: 7
-          item: cookie
-          amount: 1
-          lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 2 stacks of cookies'
-            - '&e- 2 buckets of milk'
-            - '&c&lRewards:'
-            - '&e- 2 emerald blocks'
-            - '&e- 250 $'
       '6':
         id: 6
-        name: '&2Home, sweet home!'
+        name: '&2Hogar, dulce hogar!'
         require:
           - 'ITEM:oak_door 2'
           - 'ITEM:white_bed 2'
@@ -759,18 +725,18 @@ challenges:
           item: white_bed
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 2 wooden oak doors'
-            - '&e- 2 beds'
-            - '&e- 2 bookshelves'
-            - '&e- 2 crafting tables'
-            - '&e- 2 glass blocks'
-            - '&e- 2 torches'
-            - '&c&lRewards:'
-            - '&e- 2 villager spawn eggs'
+            - '&c&lPara este reto necesitaráss:'
+            - '&e- 2 puertas de madera de roble'
+            - '&e- 2 camas'
+            - '&e- 2 librerias'
+            - '&e- 2 mesas de crafteo'
+            - '&e- 2 bloques de cristal'
+            - '&e- 2 antorchas'
+            - '&c&lObtendrás:'
+            - '&e- 2 huevos de aldeano'
       '7':
         id: 7
-        name: '&2Best Friends!'
+        name: '&2Mejores amigos!'
         require:
           - 'NEAR:PLAYER 10'
         reward:
@@ -787,16 +753,16 @@ challenges:
           item: oak_door
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 10 players in your proximity'
-            - '&c&lRewards:'
-            - '&e- 10 lapis blocks'
-            - '&e- 24 iron ingots'
-            - '&e- 1 jukebox'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 10 jugadores cercanos'
+            - '&c&lObetndrás:'
+            - '&e- 10 bloques de lapislázuli'
+            - '&e- 24 lingotes de hierro'
+            - '&e- 1 tocadiscos'
             - '&e- 500 $'
       '8':
         id: 8
-        name: '&2The Dark Element'
+        name: '&2El Elemento Oscuro'
         require:
           - 'ITEM:obsidian 64'
         reward:
@@ -811,19 +777,18 @@ challenges:
           item: obsidian
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 1 stack of obsidian'
-            - '&c&lRewards:'
-            - '&e- 24 diamonds'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 1 stack de obsidiana'
+            - '&c&lObtendrás:'
+            - '&e- 24 diamantes'
             - '&e- 500 $'
       '9':
         id: 9
-        name: '&2Island level 750'
+        name: '&2INivel de isla 750'
         require:
           - 'LEVEL:750'
         reward:
-          - 'CMD:eco give {player} 2000'
-          - 'CMD:give {player} minecraft:spawner 1'
+          - 'CMD:eco give {player} 50000'
         maxtimes: 1
         showInChat: true
         item:
@@ -833,11 +798,11 @@ challenges:
           item: experience_bottle
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- Your island to be at level 750'
-            - '&c&lRewards:'
-            - '&e- 1 spawner'
-            - '&e- 2 000 $'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- Tener un nivel de isla 750'
+            - '&c&lObtendrás:'
+            - '&e- 50000 $'
+
   '3':
     id: 3
     name: '&aSkyBlock &8| &dSemi-experimentado'
