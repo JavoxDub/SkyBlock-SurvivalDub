@@ -240,7 +240,7 @@ inventory:
       col: 2
       item: EXPERIENCE_BOTTLE
       amount: 1
-      name: '&aCategor�a I &8| &bNovato'
+      name: '&aCategoría I &8| &bNovato'
       lore:
         - '&bClick para ver los retos!'
       redirect: 1
@@ -249,7 +249,7 @@ inventory:
       col: 3
       item: EXPERIENCE_BOTTLE
       amount: 1
-      name: '&aCategor�a I &8| &ePrincipiante'
+      name: '&aCategoría I &8| &ePrincipiante'
       lore:
         - '&bClick para ver los retos!'
       redirect: 2
@@ -258,7 +258,7 @@ inventory:
       col: 4
       item: EXPERIENCE_BOTTLE
       amount: 1
-      name: '&aCategor�a I &8| &dSemi-Experimentado'
+      name: '&aCategoría I &8| &dSemi-Experimentado'
       lore:
         - '&bClick para ver los retos!'
       redirect: 3
@@ -275,7 +275,7 @@ inventory:
       col: 6
       item: EXPERIENCE_BOTTLE
       amount: 1
-      name: '&aCategor�a I &8| &cExperimentado'
+      name: '&aCategoría I &8| &cExperimentado'
       lore:
         - '&bClick para ver los retos!'
       redirect: 4
@@ -284,7 +284,7 @@ inventory:
       col: 7
       item: EXPERIENCE_BOTTLE
       amount: 1
-      name: '&aCategor�a I &8| &6Profesional'
+      name: '&aCategoría I &8| &6Profesional'
       lore:
         - '&bClick para ver los retos!'
       redirect: 5
@@ -293,7 +293,7 @@ inventory:
       col: 8
       item: EXPERIENCE_BOTTLE
       amount: 1
-      name: '&aCategor�a I &8| &6Profesional &b&l+'
+      name: '&aCategoría I &8| &6Profesional &b&l+'
       lore:
         - '&bClick para ver los retos!'
       redirect: 6
@@ -318,7 +318,7 @@ challenges:
         # The id of the challenge
         id: 1
         # The name of the challenge
-        name: '&2Miner'
+        name: '&2Minero'
         # The requirement
         # ITEM:<item> <count> ==> the player needs <count> <item>
         # LEVEL:<level> ==> the player's island needs to be at least <level> level
@@ -349,15 +349,15 @@ challenges:
           amount: 1
           # The lore of this item
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 2 stacks of cobblestone'
-            - '&c&lReward:'
-            - '&e- 20 iron ingots'
-            - '&e- 1 name tag'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 2 stacks de adoquín'
+            - '&c&lY obtendrás:'
+            - '&e- 20 lingotes de hierro'
+            - '&e- 1 etiqueta'
             - '&e- 100 $'
       '2':
         id: 2
-        name: '&2Woodworker'
+        name: '&2Leñador'
         require:
           - 'ITEM:oak_log 32'
           - 'ITEM:spruce_log 32'
@@ -378,15 +378,15 @@ challenges:
           item: oak_log
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 32 logs of each type of tree'
-            - '&c&lRewards:'
-            - '&e- 24 iron ingots'
-            - '&e- 32 leather'
+            - '&c&lPara este reto necesitaras:'
+            - '&e- 32 troncos de cada tipo de arbol'
+            - '&c&lY obtendrás:'
+            - '&e- 24 lingotes de hierro'
+            - '&e- 32 de cuero'
             - '&e- 200 $'
       '3':
         id: 3
-        name: '&2A Prickly Affair'
+        name: '&2A Asunto espinoso'
         require:
           - 'ITEM:oak_log 48'
         reward:
@@ -401,14 +401,14 @@ challenges:
           item: oak_log
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 48 cactus green'
-            - '&c&lRewards:'
-            - '&e- 24 sand'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 48 de tinte verde'
+            - '&c&lY obtendrás:'
+            - '&e- 24 de arena'
             - '&e- 200 $'
       '4':
         id: 4
-        name: '&2Baker'
+        name: '&2Panadero'
         require:
           - 'ITEM:bread 32'
         reward:
@@ -428,14 +428,14 @@ challenges:
           item: bread
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 32 loaves of bread'
-            - '&c&lReward:'
-            - '&e- 2 saplings of each type of tree'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 32 barras de pan'
+            - '&c&lY obtendrás:'
+            - '&e- 2 brotes de cada tipo de árbol'
             - '&e- 200 $'
       '5':
         id: 5
-        name: '&2Glassblower'
+        name: '&2Vidriería'
         require:
           - 'ITEM:glass 24'
         reward:
@@ -450,14 +450,14 @@ challenges:
           item: glass
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 24 glass'
-            - '&c&lRewards:'
-            - '&e- 10 Mycelium'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 24 de cristal'
+            - '&c&lY obtendrás:'
+            - '&e- 10 de micelio'
             - '&e- 200 $'
       '6':
         id: 6
-        name: '&2Scribe'
+        name: '&2Escriba'
         require:
           - 'ITEM:paper 64'
         reward:
@@ -473,15 +473,15 @@ challenges:
           item: paper
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 64 pieces of paper'
+            - '&c&l Para este reto necesitaras:'
+            - '&e- 64 piezas de papel'
             - '&c&lRewards:'
-            - '&e- 15 dirt'
-            - '&e- 15 blocks of clay'
+            - '&e- 15 de tierra'
+            - '&e- 15 bloques de arcilla'
             - '&e- 100 $'
       '7':
         id: 7
-        name: '&2When life gives you apples'
+        name: '&2Cuando la vida te da manzanas'
         require:
           - 'ITEM:apple 16'
         reward:
@@ -497,15 +497,15 @@ challenges:
           item: apple
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 16 apples'
-            - '&c&lRewards:'
-            - '&e- 15 dirt'
-            - '&e- 3 grass blocks'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 16 manzanas'
+            - '&c&lY obtendrás:'
+            - '&e- 15 de tierra'
+            - '&e- 3 Bloques de césped'
             - '&e- 100 $'
       '8':
         id: 8
-        name: '&2Forester'
+        name: '&2Guardabosques'
         require:
           - 'ITEM:pumpkin_seeds 24'
           - 'ITEM:melon_seeds 24'
@@ -522,16 +522,16 @@ challenges:
           item: wheat_seeds
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 24 pumpkin seeds'
-            - '&e- 24 melon seeds'
-            - '&e- 24 wheat seeds'
-            - '&c&lEt tu gagneras :'
-            - '&e- 1 sponge'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 24 semillas de calabaza'
+            - '&e- 24 semillas de sandía'
+            - '&e- 24 semillas de trigo'
+            - '&c&lY obtendrás:'
+            - '&e- 1 esponja'
             - '&e- 150 $'
       '9':
         id: 9
-        name: '&2Island level 250'
+        name: '&2Isla nivel 250'
         require:
           - 'LEVEL:250'
         reward:
@@ -547,11 +547,11 @@ challenges:
           item: experience_bottle
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- Your island to be at level 250'
-            - '&c&lRewards:'
-            - '&e- 4 diamond blocks'
-            - '&e- 1 pig spawn egg'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- Tu isla debe ser nivel 250 '
+            - '&c&lY obtendrás:'
+            - '&e- 4 bloques de diamante'
+            - '&e- 1 huevo de cerdo'
             - '&e- 1 000 $'
   '2':
     id: 2
