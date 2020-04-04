@@ -1609,8 +1609,6 @@ challenges:
             - '&c&lY obtendrás:'
             - '&e- 16 bloques de diamante'
             - '&e- 25000 $'
-  '6':
-    id: 6
     name: '&aSkyBlock &8| &6Profesional &b&l+'
     # All challenges
     challenges:
