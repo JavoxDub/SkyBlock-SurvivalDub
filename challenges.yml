@@ -507,7 +507,7 @@ challenges:
           - 'ITEM:grass_block 4'
           - 'ITEM:pumpkin_seeds 2'
           - 'ITEM:melon_seeds 2'
-          - 'ITEM:coca_beans 2'
+          - 'ITEM:cocoa_beans 2'
         maxtimes: 4
         showInChat: true
         item:
@@ -594,7 +594,7 @@ challenges:
         require:
           - 'ITEM:cake 16'
           - 'ITEM:pumpkin_pie 16'
-          - 'ITEM:coockie 256'
+          - 'ITEM:cookie 256'
           - 'ITEM:cooked_chicken 64'
           - 'ITEM:cooked_porkchop 64'
         reward:
