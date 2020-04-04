@@ -393,7 +393,7 @@ challenges:
             - '&e- 100 $'
       '3':
         id: 3
-        name: '&2A Pintor I'
+        name: '&2Pintor I'
         require:
           - 'ITEM:green_dye 64'
           - 'ITEM:red_dye 64'
