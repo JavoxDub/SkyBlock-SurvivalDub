@@ -1376,7 +1376,7 @@ challenges:
     challenges:
       '1':
         id: 1
-        name: '&2Clockmaker'
+        name: '&2Relojero'
         require:
           - 'ITEM:redstone_block 32'
           - 'ITEM:comparator 16'
@@ -1395,38 +1395,38 @@ challenges:
           item: clock
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 32 redstone blocks'
-            - '&e- 16 comparators'
-            - '&e- 32 repeaters'
-            - '&e- 16 observers'
-            - '&c&lReward:'
-            - '&e- 24 emerald blocks'
-            - '&e- 48 redstone blocks'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 32 bloques de redstone'
+            - '&e- 16 comparadores de redstone'
+            - '&e- 32 repetidores de redstone'
+            - '&e- 16 observadores'
+            - '&c&lY obtendrás:'
+            - '&e- 24 bloques de esmeralda'
+            - '&e- 48 bloques de redstone'
             - '&e- 1000 $'
       '2':
         id: 2
-        name: '&2Artist'
+        name: '&2Artista'
         require:
-          - 'ITEM:rose_red 64'
-          - 'ITEM:oak_log 64'
+          - 'ITEM:red_dye 64'
+          - 'ITEM:green_dye 64'
           - 'ITEM:purple_dye 64'
           - 'ITEM:cyan_dye 64'
           - 'ITEM:light_gray_dye 64'
           - 'ITEM:gray_dye 64'
           - 'ITEM:pink_dye 64'
           - 'ITEM:lime_dye 64'
-          - 'ITEM:dandelion_yellow 64'
+          - 'ITEM:yellow_dye 64'
           - 'ITEM:light_blue_dye 64'
           - 'ITEM:magenta_dye 64'
           - 'ITEM:orange_dye 64'
-          - 'ITEM:cocoa_beans 64'
-          - 'ITEM:ink_sac 64'
-          - 'ITEM:bone_meal 64'
-          - 'ITEM:lapis_lazuli 64'
+          - 'ITEM:brown_dye 64'
+          - 'ITEM:black_dye 64'
+          - 'ITEM:white_dye 64'
+          - 'ITEM:blue_dye 64'
         reward:
-          - 'CMD:eco give {player} 2000'
-          - 'ITEM:villager_spawn_egg 2'
+          - 'CMD:eco give {player} 5000'
+          - 'ITEM:diamond_block 5'
         maxtimes: 1
         showInChat: true
         item:
@@ -1436,19 +1436,19 @@ challenges:
           item: dandelion_yellow
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 1 stack of each color'
-            - '&c&lRewards:'
-            - '&e- 2 villager spawn eggs'
-            - '&e- 2000 $'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 1 stack de cada color de tinte'
+            - '&c&lY obtendrás:'
+            - '&e- 5 bloques de diamante'
+            - '&e- 5000 $'
       '3':
         id: 3
         name: '&2Atilla'
         require:
           - 'ITEM:dragon_egg 2'
         reward:
-          - 'CMD:eco give {player} 5000'
-          - 'CMD:give {player} minecraft:spawner 1'
+          - 'CMD:eco give {player} 50000'
+          - 'ITEM:elytra 1'
         maxtimes: 1
         showInChat: true
         item:
@@ -1458,19 +1458,19 @@ challenges:
           item: dragon_egg
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 2 dragon eggs'
-            - '&c&lRewards:'
-            - '&e- 1 spawner'
-            - '&e- 5000 $'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 2 huevos de dragón'
+            - '&c&lY obtendrás:'
+            - '&e- 1 elytras'
+            - '&e- 50000 $'
       '4':
         id: 4
-        name: '&2Evoker'
+        name: '&2Invocador'
         require:
           - 'ITEM:end_crystal 32'
         reward:
           - 'ITEM:beacon 1'
-          - 'ITEM:diamond_block 32'
+          - 'ITEM:diamond_block 6'
         maxtimes: 1
         showInChat: true
         item:
@@ -1480,19 +1480,19 @@ challenges:
           item: end_crystal
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 32 end crystals'
-            - '&c&lRewards:'
-            - '&e- 1 beacon'
-            - '&e- 32 diamond blocks'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 32 cristales del end'
+            - '&c&lY obtendrás:'
+            - '&e- 1 faro'
+            - '&e- 6 bloquea de diamante'
       '5':
         id: 5
-        name: '&2Slayer'
+        name: '&2Asesino'
         require:
           - 'ITEM:nether_star 9'
         reward:
-          - 'CMD:es give {player} skeleton 1'
-          - 'CMD:eco give {player} 4000'
+          - 'ITEM:dragon_head 1'
+          - 'CMD:eco give {player} 10000'
         maxtimes: 1
         showInChat: true
         item:
@@ -1502,19 +1502,19 @@ challenges:
           item: nether_star
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 9 nether stars'
-            - '&c&lRewards:'
-            - '&e- 1 spawner'
-            - '&e- 4000 $'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 9 estrellas del nether'
+            - '&c&lY obtendrás:'
+            - '&e- 1 cabeza de dragón'
+            - '&e- 10000 $'
       '6':
         id: 6
-        name: '&2Diver'
+        name: '&2Buzo'
         require:
-          - 'ITEM:sea_lantern 192'
+          - 'ITEM:sea_pickle 192'
         reward:
           - 'CMD:eco give {player} 1500'
-          - 'ITEM:iron_block 64'
+          - 'ITEM:iron_block 10'
         maxtimes: 1
         showInChat: true
         item:
@@ -1524,14 +1524,14 @@ challenges:
           item: water_bucket
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 3 stacks of sea lanterns'
-            - '&c&lRewards:'
-            - '&e- 64 iron blocks'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 3 stacks de pepinos de mar'
+            - '&c&lY obtendrás:'
+            - '&e- 10 bloques de hierro'
             - '&e- 1500 $'
       '7':
         id: 7
-        name: '&2Explorer of the End'
+        name: '&2 Explorador del End'
         require:
           - 'ITEM:chorus_flower 128'
           - 'ITEM:end_rod 32'
@@ -1547,15 +1547,15 @@ challenges:
           item: end_stone
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 2 stacks of chorus flowers'
-            - '&e- 32 end rods'
-            - '&c&lRewards:'
-            - '&e- 1 dragon head'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 2 stacks de flores de coral'
+            - '&e- 32 varas del End'
+            - '&c&lY obtendrás:'
+            - '&e- 1 cabeza de dragón'
             - '&e- 2000 $'
       '8':
         id: 8
-        name: '&2Bannerman'
+        name: '&2Abanderado'
         require:
           - 'ITEM:black_banner 16'
           - 'ITEM:red_banner 16'
@@ -1574,8 +1574,8 @@ challenges:
           - 'ITEM:orange_banner 16'
           - 'ITEM:white_banner 16'
         reward:
-          - 'CMD:eco give {player} 2000'
-          - 'CMD:give {player} minecraft:spawner 1'
+          - 'CMD:eco give {player} 5000'
+          - 'ITEM:beacon 1'
         maxtimes: 1
         showInChat: true
         item:
@@ -1585,19 +1585,19 @@ challenges:
           item: white_banner
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 16 banners in every color'
-            - '&c&lRewards:'
-            - '&e- 1 spawner'
-            - '&e- 2000 $'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- 16 estandartes de todos los colores'
+            - '&c&lY obtendrás:'
+            - '&e- 1 faro'
+            - '&e- 5000 $'
       '9':
         id: 9
-        name: '&2Island level 5000'
+        name: '&2Nivel de isla 5000'
         require:
           - 'LEVEL:5000'
         reward:
-          - 'CMD:eco give {player} 5000'
-          - 'CMD:give {player} minecraft:spawner 1'
+          - 'CMD:eco give {player} 25000'
+          - 'ITEM:diamond_block 16'
         maxtimes: 1
         showInChat: true
         item:
@@ -1607,11 +1607,11 @@ challenges:
           item: experience_bottle
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- Your island to be at level 5000'
-            - '&c&lRewards:'
-            - '&e- 1 spawner'
-            - '&e- 5000 $'
+            - '&c&lPara este reto necesitarás:'
+            - '&e- Tu isla debe ser nivel 5000'
+            - '&c&lY obtendrás:'
+            - '&e- 16 bloques de diamante'
+            - '&e- 25000 $'
   '6':
     id: 6
     name: '&aSkyBlock &8| &6Profesional &b&l+'
