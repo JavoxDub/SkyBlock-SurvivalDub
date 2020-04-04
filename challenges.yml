@@ -796,12 +796,13 @@ challenges:
             - '&e- 1000 $'
       '8':
         id: 8
-        name: '&2El elemento oscuro'
+        name: '&2Acceso al Nether'
         require:
-          - 'ITEM:obsidian 64'
+          - 'ITEM:obsidian 14'
+          - 'ITEM:flint_and_steel 1'
         reward:
           - 'CMD:eco give {player} 500'
-          - 'ITEM:diamond 15'
+          - 'CMD:lp user {player} parent add nether'
         maxtimes: 1
         showInChat: true
         item:
@@ -812,9 +813,10 @@ challenges:
           amount: 1
           lore:
             - '&c&lPara completar este reto necesitas:'
-            - '&e- 1 stack de obsidiana'
+            - '&e- 14 bloques de obsidiana'
+            - '&e- 1 Encendedor/mechero'
             - '&c&lRecompensa:'
-            - '&e- 15 diamantes'
+            - '&e- Acceso &bPERMANENTE al NETHER.'
             - '&e- 500 $'
       '9':
         id: 9
@@ -863,8 +865,8 @@ challenges:
           - 'ITEM:black_wool 32'
         reward:
           - 'CMD:eco give {player} 500'
-          - 'ITEM:gold_block 16'
-          - 'ITEM:grass_block 22'
+          - 'ITEM:gold_block 15'
+          - 'ITEM:grass_block 10'
         maxtimes: 5
         showInChat: true
         item:
@@ -877,8 +879,8 @@ challenges:
             - '&c&lPara completar este reto necesitas:'
             - '&e- 32 lanas de cada color'
             - '&c&lRecompensa:'
-            - '&e- 16 bloques de oro'
-            - '&e- 22 bloques de cesped'
+            - '&e- 15 bloques de oro'
+            - '&e- 10 bloques de cesped'
             - '&e- 500 $'
       '2':
         id: 2
@@ -971,8 +973,8 @@ challenges:
           lore:
             - '&c&lPara completar este reto necesitas:'
             - '&e- 1 stack de cada comida cocinada'
-            - '&e- 6 beetroot soups'
-            - '&e- 6 mushroom stews'
+            - '&e- 6 sopas de remolacha'
+            - '&e- 6 guisos de champinones'
             - '&c&lRecompensa:'
             - '&e- 16 sacos de tinta de calamar'
             - '&e- 1 spawn de conejo'
@@ -983,8 +985,8 @@ challenges:
         require:
           - 'ITEM:ender_pearl 64'
         reward:
-          - 'CMD:eco give {player} 2500'
-          - 'ITEM:diamond_block 2'
+          - 'CMD:eco give {player} 3500'
+          - 'ITEM:diamond_block 7'
         maxtimes: 1
         showInChat: true
         item:
@@ -997,8 +999,8 @@ challenges:
             - '&c&lPara completar este reto necesitas:'
             - '&e- 4 ender pearls (64 total)'
             - '&c&lRecompensa:'
-            - '&e- 2 bloques de diamantes'
-            - '&e- 2500 $'
+            - '&e- 7 bloques de diamantes'
+            - '&e- 3500 $'
       '6':
         id: 6
         name: '&2El comerciante de slimes'
@@ -1048,7 +1050,7 @@ challenges:
             - '&e- 1 stack de arena de almas'
             - '&e- 5 lagrimas de ghast'
             - '&c&lRecompensa:'
-            - '&e- 25000'
+            - '&e- $25000'
       '8':
         id: 8
         name: '&2El Trabajador'
