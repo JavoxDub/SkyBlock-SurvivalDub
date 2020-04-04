@@ -845,7 +845,7 @@ challenges:
     challenges:
       '1':
         id: 1
-        name: '&2Shepherd'
+        name: '&2Pastor'
         require:
           - 'ITEM:white_wool 32'
           - 'ITEM:orange_wool 32'
@@ -876,15 +876,15 @@ challenges:
           item: stick
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 32 wool of each color'
-            - '&c&lRewards:'
-            - '&e- 16 gold blocks'
-            - '&e- 22 grass blocks'
+            - '&c&lPara completar este reto necesitas:'
+            - '&e- 32 lanas de cada color'
+            - '&c&lRecompensa:'
+            - '&e- 16 bloques de oro'
+            - '&e- 22 bloques de cesped'
             - '&e- 500 $'
       '2':
         id: 2
-        name: '&2Glazier'
+        name: '&2Vidriero II'
         require:
           - 'ITEM:white_stained_glass 48'
           - 'ITEM:orange_stained_glass 48'
@@ -915,15 +915,15 @@ challenges:
           item: glass
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 48 blocks of glass for each color'
-            - '&c&lRewards:'
-            - '&e- 8 emerald blocks'
-            - '&e- 1 book of mending'
+            - '&c&lPara completar este reto necesitas:'
+            - '&e- 48 bloques de cristal de cada color'
+            - '&c&lRecompensa:'
+            - '&e- 8 bloques de esmeraldas'
+            - '&e- 1 libro de reparacion'
             - '&e- 500 $'
       '3':
         id: 3
-        name: '&2The Nether'
+        name: '&2El Nether'
         require:
           - 'ITEM:blaze_rod 64'
           - 'ITEM:ghast_tear 10'
@@ -941,17 +941,16 @@ challenges:
           item: blaze_rod
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 1 stack of blaze rods'
-            - '&e- 10 ghast tears'
-            - '&e- 24 magma cream'
-            - '&e- 1 stack of magma blocks'
-            - '&c&lEt tu gagneras :'
-            - '&e- 1 spawner'
-            - '&e- 500 $'
+            - '&c&lPara completar este reto necesitas:'
+            - '&e- 1 stack de varas de blaze'
+            - '&e- 1 lagrimas de ghast'
+            - '&e- 24 crema de magmas'
+            - '&e- 1 stack de bloques de magma'
+            - '&c&lERecompensa:'
+            - '&e- 10000 $'
       '4':
         id: 4
-        name: '&2Cook'
+        name: '&2Cocinero'
         require:
           - 'ITEM:cooked_porkchop 64'
           - 'ITEM:cooked_chicken 64'
@@ -961,9 +960,9 @@ challenges:
           - 'ITEM:beetroot_soup 6'
           - 'ITEM:mushroom_stew 6'
         reward:
-          - 'CMD:eco give {player} 300'
-          - 'ITEM:ink_sac 5'
-          - 'ITEM:villager_spawn_egg 1'
+          - 'CMD:eco give {player} 2500'
+          - 'ITEM:ink_sac 16'
+          - 'ITEM:rabbit_spawn_egg 1'
         maxtimes: 3
         showInChat: true
         item:
@@ -973,21 +972,21 @@ challenges:
           item: furnace
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 1 stack of every type of &n&lcooked&e meat'
+            - '&c&lPara completar este reto necesitas:'
+            - '&e- 1 stack de cada comida cocinada'
             - '&e- 6 beetroot soups'
             - '&e- 6 mushroom stews'
-            - '&c&lRewards:'
-            - '&e- 5 ink sacks'
-            - '&e- 1 villager spawn egg'
-            - '&e- 300 $'
+            - '&c&lRecompensa:'
+            - '&e- 16 sacos de tinta de calamar'
+            - '&e- 1 spawn de conejo'
+            - '&e- 2500 $'
       '5':
         id: 5
-        name: '&2The End'
+        name: '&2El end'
         require:
           - 'ITEM:ender_pearl 64'
         reward:
-          - 'CMD:eco give {player} 500'
+          - 'CMD:eco give {player} 2500'
           - 'ITEM:diamond_block 2'
         maxtimes: 1
         showInChat: true
@@ -998,18 +997,18 @@ challenges:
           item: ender_pearl
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 4 of ender pearls (64 total)'
-            - '&c&lRewards:'
-            - '&e- 2 diamond blocks'
-            - '&e- 500 $'
+            - '&c&lPara completar este reto necesitas:'
+            - '&e- 4 ender pearls (64 total)'
+            - '&c&lRecompensa:'
+            - '&e- 2 bloques de diamantes'
+            - '&e- 2500 $'
       '6':
         id: 6
-        name: '&2Slimy business'
+        name: '&2El comerciante de slimes'
         require:
           - 'ITEM:slime_block 128'
         reward:
-          - 'CMD:eco give {player} 500'
+          - 'CMD:eco give {player} 2500'
         maxtimes: 1
         showInChat: true
         item:
@@ -1019,13 +1018,13 @@ challenges:
           item: slime_ball
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 2 stacks of slime blocks'
-            - '&c&lRewards:'
-            - '&e- 500 $'
+            - '&c&lPara completar este reto necesitas:'
+            - '&e- 2 stacks de bloques de slimes'
+            - '&c&lRecompensa:'
+            - '&e- 25000 $'
       '7':
         id: 7
-        name: '&2Nether Adventurer'
+        name: '&2Aventura por el Nether'
         require:
           - 'ITEM:map 1'
           - 'ITEM:compass 1'
@@ -1034,7 +1033,7 @@ challenges:
           - 'ITEM:soul_sand 64'
           - 'ITEM:ghast_tear 5'
         reward:
-          - 'CMD:give {player} minecraft:spawner 1'
+          - 'CMD:eco give {player} 25000'
         maxtimes: 1
         showInChat: true
         item:
@@ -1044,18 +1043,18 @@ challenges:
           item: lava_bucket
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 1 map'
-            - '&e- 1 compass'
-            - '&e- 1 clock'
-            - '&e- 128 nether bricks'
-            - '&e- 1 stack of soul sand'
-            - '&e- 5 ghast tears'
-            - '&c&lRewards:'
-            - '&e- 1 spawner'
+            - '&c&lPara completar este reto necesitas:'
+            - '&e- 1 mapa'
+            - '&e- 1 brujula'
+            - '&e- 1 reloj'
+            - '&e- 128 bloques de ladrillos del nether'
+            - '&e- 1 stack de arena de almas'
+            - '&e- 5 lagrimas de ghast'
+            - '&c&lRecompensa:'
+            - '&e- 25000'
       '8':
         id: 8
-        name: '&2Workshop'
+        name: '&2El Trabajador'
         require:
           - 'ITEM:jukebox 8'
           - 'ITEM:anvil 8'
@@ -1073,14 +1072,14 @@ challenges:
           item: ladder
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- 8 jukeboxes'
-            - '&e- 8 anvils'
-            - '&e- 8 trapped chests'
-            - '&c&lRewards:'
-            - '&e- 16 powered rails'
-            - '&e- 32 rails'
-            - '&e- 8 gold blocks'
+            - '&c&lPara completar este reto necesitas:'
+            - '&e- 8 tocadiscos'
+            - '&e- 8 yunques'
+            - '&e- 8 cofres'
+            - '&c&lRecompensa:'
+            - '&e- 16 railes propulsores'
+            - '&e- 32 railes'
+            - '&e- 8 bloques de oro'
       '9':
         id: 9
         name: '&2Island level 2000'
@@ -1100,13 +1099,13 @@ challenges:
           item: experience_bottle
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- Your island to be at level 2000'
-            - '&c&lRewards:'
-            - '&e- 16 diamond blocks'
-            - '&e- 32 iron blocks'
-            - '&e- 8 emerald blocks'
-            - '&e- 2 500 $'
+            - '&c&lPara completar este reto necesitas:'
+            - '&e- nivel de isla 2000'
+            - '&c&lRecompensa:'
+            - '&e- 16 bloques de diamantes'
+            - '&e- 32 bloques de hierro'
+            - '&e- 8 bloques de esmeraldas'
+            - '&e- 2500 $'
   '4':
     id: 4
     name: '&aSkyBlock &8| &cExperimentado'
