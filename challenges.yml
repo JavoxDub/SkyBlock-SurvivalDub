@@ -929,7 +929,6 @@ challenges:
           - 'ITEM:magma_block 64'
         reward:
           - 'CMD:eco give {player} 500'
-          - 'CMD:give {player} minecraft:spawner 1'
         maxtimes: 1
         showInChat: true
         item:
