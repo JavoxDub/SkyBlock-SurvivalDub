@@ -395,7 +395,7 @@ challenges:
         id: 3
         name: '&2A Pintor I'
         require:
-          - 'ITEM:cactus_green 64'
+          - 'ITEM:green_dye 64'
           - 'ITEM:red_dye 64'
           - 'ITEM:yellow_dye 64'
         reward:
