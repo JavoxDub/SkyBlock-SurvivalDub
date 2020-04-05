@@ -381,9 +381,6 @@ challenges:
             - '&e- 1 brote de roble'
             - '&e- 1 brote de abedul'
             - '&e- 1 brote de abeto'
-            - '&e- 1 brote de arbol de jungla'
-            - '&e- 1 brote de acacia'
-            - '&e- 1 brote de roble oscuro'
             - '&e- 100 $'
       '3':
         id: 3
@@ -483,8 +480,8 @@ challenges:
             - '&c&lPara completar este reto necesitas:'
             - '&e- 4 stacks de hojas de papel'
             - '&c&lRecompensa:'
-            - '&e- 1 de tierra'
-            - '&e- 1 de arcilla'
+            - '&e- 1 bloque de tierra'
+            - '&e- 1 bloque de arcilla'
             - '&e- 2 trozos de cuero'
             - '&e- 100 $'
       '7':
@@ -658,7 +655,7 @@ challenges:
           - 'ITEM:lapis_block 1'
           - 'CMD:eco give {player} 500'
         maxtimes: 50
-        showInChat: true
+        showInChat: false
         item:
           show: true
           row: 1
@@ -838,7 +835,7 @@ challenges:
           - 'ITEM:redstone_block 4'
           - 'ITEM:diamond_block 4'
         maxtimes: 1
-        showInChat: true
+        showInChat: false
         item:
           show: true
           row: 1
@@ -871,10 +868,10 @@ challenges:
         reward:
           - 'CMD:eco give {player} 2000'
           - 'ITEM:gold_block 4'
-          - 'ITEM:grass_block 1'
+          - 'ITEM:grass_block 4'
           - 'ITEM:pickaxe_diamond 1'
         maxtimes: 5
-        showInChat: true
+        showInChat: false
         item:
           show: true
           row: 1
@@ -890,7 +887,7 @@ challenges:
             - '&e- 4 stacks de bloques de ladrillos rotos'
             - '&c&lRewards:'
             - '&e- 4 bloques de oro'
-            - '&e- 1 bloque de cesped'
+            - '&e- 4 bloque de cesped'
             - '&e- 1 pico de diamante'
             - '&e- 2000 $'
       '2':
@@ -907,7 +904,6 @@ challenges:
           - 'CMD:eco give {player} 2000'
           - 'ITEM:emerald_block 4'
           - 'ITEM:diamond_axe 1'
-          - 'CMD:eco give {player} 2000'
         maxtimes: 5
         showInChat: true
         item:
@@ -977,7 +973,7 @@ challenges:
         reward:
           - 'CMD:eco give {player} 2000'
           - 'ITEM:diamond_shovel 1'
-          - 'ITEM:diamond_block 2'
+          - 'ITEM:iron_block 8'
         maxtimes: 5
         showInChat: false
         item:
@@ -991,7 +987,7 @@ challenges:
             - '&e- 4 stacks de cada cultivo y seta'
             - '&c&lRecompensa:'
             - '&e- 1 pala de diamantes'
-            - '&e- 2 bloques de diamantes'
+            - '&e- 8 bloques de hierro'
             - '&e- 2000 $'
       '5':
         id: 5
@@ -1047,8 +1043,9 @@ challenges:
         require:
           - 'ITEM:bookself 128'
         reward:
-          - 'CMD:eco give {player} 2000'
+          - 'CMD:eco give {player} 10000'
           - 'ITEM:enchanting_table 1'
+          - 'ITEM:turtle_egg 1'
         maxtimes: 5
         showInChat: false
         item:
@@ -1062,7 +1059,8 @@ challenges:
             - '&e- 2 stacks de librerias'
             - '&c&lRecompensa:'
             - '&e- 1 mesa de encantamientos'
-            - '&e- 2000 $'
+            - '&e- 1 huevo de tortuga'
+            - '&e- 10000 $'
       '7':
         id: 7
         name: '&2Cazador III'
@@ -1075,8 +1073,8 @@ challenges:
           - 'ITEM:string 128'
         reward:
           - 'ITEM:diamond_sword 1'
-          - 'ITEM:horse_spawn_egg 2'
-          - 'ITEM:donkey_spawn_egg 2'
+          - 'ITEM:horse_spawn_egg 1'
+          - 'ITEM:donkey_spawn_egg 1'
           - 'CMD:eco give {player} 25000'
         maxtimes: 5
         showInChat: false
@@ -1096,8 +1094,8 @@ challenges:
             - '&e- 2 stacks de hilos'
             - '&c&lRecompensa:'
             - '&e- 1 espada de diamantes'
-            - '&e- 2 spawn de caballo'
-            - '&e- 2 spawn de burro'
+            - '&e- 1 spawn de caballo'
+            - '&e- 1 spawn de burro'
             - '&e- 2000 $'
       '8':
         id: 8
@@ -1113,7 +1111,7 @@ challenges:
           - 'ITEM:redstone_block 8'
           - 'ITEM:gold_block 8'
           - 'ITEM:iron_block 64'
-          - 'CMD:eco give {player} 2000'
+          - 'CMD:eco give {player} 50000'
         maxtimes: 5
         showInChat: false
         item:
@@ -1134,7 +1132,7 @@ challenges:
             - '&e- 8 bloques de redstone'
             - '&e- 8 bloques de oro'
             - '&e- 1 stack de bloquess de hierro'
-            - '&e- 2000 $'
+            - '&e- 50000 $'
       '9':
         id: 9
         name: '&2Nivel de isla 2000'
@@ -1197,7 +1195,7 @@ challenges:
           - 'ITEM:white_wool 256'
         reward:
           - 'CMD:eco give {player} 5000'
-          - 'ITEM:lapis_block 1'
+          - 'ITEM:lapis_block 2'
           - 'ITEM:iron_block 2'
         maxtimes: 10
         showInChat: false
@@ -1211,7 +1209,7 @@ challenges:
             - '&c&lPara completar este reto necesitas:'
             - '&e- 4 stacks de lana blanca'
             - '&c&lRecompensa:'
-            - '&e- 1 bloque de lapislazuli'
+            - '&e- 2 bloque de lapislazuli'
             - '&e- 2 bloques de hierro'
             - '&e- 5000 $'
       '3':
@@ -1246,11 +1244,11 @@ challenges:
         id: 4
         name: '&2Coleccionista I'
         require:
-          - 'ITEM:dark_oak_sapling 1'
+          - 'ITEM:dark_oak_sapling 16'
           - 'ITEM:lapis_block 1'
-          - 'ITEM:detector_rail 1'
-          - 'ITEM:seagrass 1'
-          - 'ITEM:end_rod 1'
+          - 'ITEM:detector_rail 16'
+          - 'ITEM:seagrass 16'
+          - 'ITEM:end_rod 16'
         reward:
           - 'CMD:eco give {player} 5000'
           - 'ITEM:sponge 4'
@@ -1264,11 +1262,11 @@ challenges:
           amount: 1
           lore:
             - '&c&lPara completar este reto necesitas:'
-            - '&e- 1 brote de roble oscuro:'
+            - '&e- 16 brotes de roble oscuro:'
             - '&e- 1 bloque de lapislazuli'
-            - '&e- 1 rail detector'
-            - '&e- 1 hierba marina'
-            - '&e- 1 vara del end'
+            - '&e- 16 railes detector'
+            - '&e- 16 hierbas marina'
+            - '&e- 16 varas del end'
             - '&c&lRecompensa:'
             - '&e- 4 esponjas secas'
             - '&e- 5000 $'
@@ -1294,6 +1292,7 @@ challenges:
           - 'ITEM:diamond_boots 1'
         reward:
           - 'ITEM:diamond_block 5'
+          - 'ITEM:lapis_block 5'
           - 'CMD:eco give {player} 5000'
         maxtimes: 5
         showInChat: false
@@ -1311,6 +1310,7 @@ challenges:
             - '&e- 1 armadura completa de diamante'
             - '&c&lRecompensa:'
             - '&e- 5 bloques de diamantes'
+            - '&e- 5 bloques de lapislazuli'
             - '&e- 5000 $'
       '6':
         id: 6
@@ -1320,9 +1320,9 @@ challenges:
         reward:
           - 'CMD:eco give {player} 5000'
           - 'ITEM:nether_quartz_ore 64'
-          - 'CMD:minecraft:give {player} minecraft:enchanted_book{Enchantments:[{id:"minecraft:mending",lvl:1}]} 6'
-        maxtimes: 50
-        showInChat: false
+          - 'CMD:minecraft:give {player} minecraft:enchanted_book{Enchantments:[{id:"minecraft:mending",lvl:1}]} 2'
+        maxtimes: 20
+        showInChat: true
         item:
           show: true
           row: 1
@@ -1333,7 +1333,7 @@ challenges:
             - '&c&lPara completar este reto necesitas:'
             - '&e- 36 stacks de roca del nether'
             - '&c&lRecompensa:'
-            - '&e- 6 libros encantados de reparacion'
+            - '&e- 2 libros encantados de reparacion'
             - '&e- 1 stack de ores de cuarzo'
             - '&e- 5000 $'
       '7':
@@ -1348,7 +1348,7 @@ challenges:
           - 'CMD:eco give {player} 5000'
           - 'CMD:minecraft:give {player} minecraft:diamond_sword{Enchantments:[{id:"minecraft:sharpness",lvl:5}]} 1'
         maxtimes: 10
-        showInChat: false
+        showInChat: true
         item:
           show: true
           row: 2
@@ -1374,7 +1374,7 @@ challenges:
           - 'CMD:eco give {player} 50000'
           - 'ITEM:beacon 1'
         maxtimes: 10
-        showInChat: false
+        showInChat: true
         item:
           show: true
           row: 1
@@ -1444,7 +1444,7 @@ challenges:
           - 'ITEM:clay 256'
           - 'ITEM:sand 256'
         maxtimes: 1
-        showInChat: true
+        showInChat: false
         item:
           show: true
           row: 1
@@ -1483,7 +1483,7 @@ challenges:
           - 'ITEM:sand 64'
           - 'ITEM:gravel 64'
           - 'ITEM:dirt 64'
-        maxtimes: 1
+        maxtimes: 10
         showInChat: true
         item:
           show: true
@@ -1518,7 +1518,7 @@ challenges:
           - 'ITEM:diamond_block 3'
           - 'ITEM:lapis_block 3'
           - 'ITEM:redstone_block 3'
-        maxtimes: 5
+        maxtimes: 10
         showInChat: true
         item:
           show: true
@@ -1549,14 +1549,14 @@ challenges:
         require:
           - 'ITEM:end_crystal 8'
           - 'ITEM:snow_block 128'
-          - 'ITEM:andesite 8'
+          - 'ITEM:andesite 64'
           - 'ITEM:azure_bluet 64'
           - 'ITEM:dark_prismarine_slab 6'
           - 'ITEM:note_block 64'
         reward:
-          - 'ITEM:guardian_spawn_egg 2'
+          - 'ITEM:guardian_spawn_egg 1'
           - 'ITEM:mooshroom_spawn_egg 1'
-        maxtimes: 4
+        maxtimes: 10
         showInChat: true
         item:
           show: true
@@ -1568,12 +1568,12 @@ challenges:
             - '&c&lPara completar el reto necesitas:'
             - '&e- 8 cristales del end'
             - '&e- 2 stacks de bloques de nieve'
-            - '&e- 8 bloques de andesita'
+            - '&e- 1 stack de bloques de andesita'
             - '&e- 1 stack de flores azure'
             - '&e- 6 slabs de prismarina oscura'
             - '&e- 1 stack de bloques musicales'
             - '&c&lRecompensa:'
-            - '&e- 2 huevos de guardian'
+            - '&e- 1 huevo de guardian'
             - '&e- 1 huevo de champivaca'
       '5':
         id: 5
@@ -1588,7 +1588,7 @@ challenges:
           - 'ITEM:emerald_block 64'
           - 'ITEM:redstone_block 64'
           - 'ITEM:nether_quartz_ore 248'
-        maxtimes: 5
+        maxtimes: 10
         showInChat: true
         item:
           show: true
@@ -1599,7 +1599,7 @@ challenges:
           lore:
             - '&c&lPara completar este reto necesitas:'
             - '&e- 32 bloques de redstone'
-            - '&e- 4 stacks de comparatores'
+            - '&e- 4 stacks de comparadores'
             - '&e- 4 stacks de repetidores'
             - '&e- 1 stack de observadores'
             - '&c&lRecompensa:'
@@ -1617,8 +1617,8 @@ challenges:
           - 'ITEM:obsidian 64'
         reward:
           - 'CMD:eco give {player} 25000'
-          - 'ITEM:nether_star'
-        maxtimes: 2
+          - 'ITEM:nether_star 1'
+        maxtimes: 1
         showInChat: true
         item:
           show: true
@@ -1645,8 +1645,8 @@ challenges:
           - 'ITEM:end_stone 520'
         reward:
           - 'CMD:eco give {player} 25000'
-          - 'ITEM:dragon_head 1'
-        maxtimes: 2
+          - 'ITEM:shulker_shell 1'
+        maxtimes: 10
         showInChat: true
         item:
           show: true
@@ -1661,7 +1661,7 @@ challenges:
             - '&e- 1 stack de varas de end'
             - '&e- 8 stacks de roca del end'
             - '&c&lRecompensa:'
-            - '&e- 1 cabeza de dragon'
+            - '&e- 1 caparazon de shulker'
             - '&e- 25000 $'
       '8':
         id: 8
@@ -1687,7 +1687,7 @@ challenges:
           - 'CMD:eco give {player} 250000'
           - 'ITEM:sea_lantern 16'
           - 'ITEM:dolphin_spawn_egg 2'
-        maxtimes: 1
+        maxtimes: 5
         showInChat: true
         item:
           show: true
@@ -1723,7 +1723,7 @@ challenges:
             - '&c&lPara completar este reto necesitas:'
             - '&e- Tener tu isla a nivel 10000'
             - '&c&lRecompensa:'
-            - '&e- 32 bloques de diamantes'
+            - '&e- 16 bloques de diamantes'
             - '&e- 2 spawn de oso panda'
             - '&e- 250000 $'
   '6':
@@ -1737,28 +1737,28 @@ challenges:
         id: 1
         name: '&2Albañil III'
         require:
-          - 'ITEM:white_concrete 16'
-          - 'ITEM:orange_concrete 16'
-          - 'ITEM:magenta_concrete 16'
-          - 'ITEM:light_blue_concrete 16'
-          - 'ITEM:yellow_concrete 16'
-          - 'ITEM:lime_concrete 16'
-          - 'ITEM:pink_concrete 16'
-          - 'ITEM:gray_concrete 16'
-          - 'ITEM:light_gray_concrete 16'
-          - 'ITEM:cyan_concrete 16'
-          - 'ITEM:purple_concrete 16'
-          - 'ITEM:blue_concrete 16'
-          - 'ITEM:brown_concrete 16'
-          - 'ITEM:green_concrete 16'
-          - 'ITEM:red_concrete 16'
-          - 'ITEM:black_concrete 16'
+          - 'ITEM:white_concrete 64'
+          - 'ITEM:orange_concrete 64'
+          - 'ITEM:magenta_concrete 64'
+          - 'ITEM:light_blue_concrete 64'
+          - 'ITEM:yellow_concrete 64'
+          - 'ITEM:lime_concrete 64'
+          - 'ITEM:pink_concrete 64'
+          - 'ITEM:gray_concrete 64'
+          - 'ITEM:light_gray_concrete 64'
+          - 'ITEM:cyan_concrete 64'
+          - 'ITEM:purple_concrete 64'
+          - 'ITEM:blue_concrete 64'
+          - 'ITEM:brown_concrete 64'
+          - 'ITEM:green_concrete 64'
+          - 'ITEM:red_concrete 64'
+          - 'ITEM:black_concrete 64'
         reward:
           - 'CMD:eco give {player} 100000'
-          - 'ITEM:villager_spawn_egg 2'
+          - 'ITEM:dragon_head 1'
           - 'ITEM:sand 256'
           - 'ITEM:grass_block 256'
-        maxtimes: 2
+        maxtimes: 1
         showInChat: true
         item:
           show: true
@@ -1768,9 +1768,9 @@ challenges:
           amount: 1
           lore:
             - '&c&lPara completar este reto necesitas:'
-            - '&e- 16 de hormigon de cada color'
-            - '&c&lRewards:'
-            - '&e- 2 spawn de aldeano'
+            - '&e- 1 stack de bloques de hormigon de cada color'
+            - '&c&lRecompensa:'
+            - '&e- 1 cabezas de dragon'
             - '&e- 4 stacks de arena'
             - '&e- 4 stacks de cesped'
             - '&e- 100000 $'
@@ -1790,11 +1790,11 @@ challenges:
           - 'ITEM:light_blue_stained_glass_pane 64'
         reward:
           - 'CMD:eco give {player} 1000000'
-          - 'ITEM:quartz_block 384'
-          - 'ITEM:diamond_block 32'
+          - 'ITEM:quartz_block 64'
+          - 'ITEM:diamond_block 12'
           - 'ITEM:lapis_block 64'
           - 'ITEM:parrot_spawn_egg 2'
-        maxtimes: 2
+        maxtimes: 10
         showInChat: true
         item:
           show: true
@@ -1815,8 +1815,8 @@ challenges:
             - '&e- 1 stack de pilares de purpur'
             - '&e- 1 stack de paneles de cristal celeste'
             - '&c&lRecompensa:'
-            - '&e- 6 stacks de bloques de cuarzo'
-            - '&e- 32 bloques de diamantes'
+            - '&e- 1 stacks de bloques de cuarzo'
+            - '&e- 12 bloques de diamantes'
             - '&e- 1 stack de bloques de lapislazuli'
             - '&e- 2 spawn de loro'
             - '&e- 1000000 $'
@@ -1835,6 +1835,7 @@ challenges:
         reward:
           - 'CMD:eco give {player} 2000000'
           - 'ITEM:dragon_egg 1'
+          - 'ITEM:shulker_box 2'
         maxtimes: 1
         showInChat: true
         item:
@@ -1855,6 +1856,7 @@ challenges:
             - '&e- 1 stack de huevos de tortuga'
             - '&c&lRecompensa:'
             - '&e- 1 huevo de dragon'
+            - '&e- 2 cajas de shulker'
             - '&e- 2000000 $'
       '4':
         id: 4
@@ -1877,7 +1879,7 @@ challenges:
           - 'ITEM:totem_of_undying 2'
         maxtimes: 1
         showInChat: true
-        item:
+        item: 
           show: true
           row: 1
           col: 4
@@ -1906,20 +1908,22 @@ challenges:
         name: '&2Nivel de isla 25000'
         require:
           - 'LEVEL:25000'
+          - 'ITEM:emerald_block 64'
         reward:
           - 'CMD:eco give {player} 2000000'
         maxtimes: 1
         showInChat: true
-        item:
+        item: 
           show: true
           row: 1
           col: 5
-          item: experience_bottle
+          item: bedrock
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
-            - '&e- Your island to be at level 15000'
-            - '&c&lRewards:'
+            - '&c&lPara completar este reto necesitas:'
+            - '&e- Nivel de isla 25000'
+            - '&e- 1 stack de bloques de esmeraldas'
+            - '&c&lRecompensa:&2(pedir premio a Master)'
             - '&e- 1 spawner'
             - '&e- La head de MASTERS Y H-MOD'
             - '&e- 2000000 $'
