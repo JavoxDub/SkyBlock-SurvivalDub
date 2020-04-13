@@ -22,7 +22,7 @@ inventory:
     2:
       row: 1
       col: 2
-      item: BLACK_STAINED_GLASS_PANE
+      item: RED_STAINED_GLASS_PANE
       amount: 1
       name: ''
       lore:
@@ -36,6 +36,1902 @@ inventory:
       lore:
         - ''
     4:
+      row: 1
+      col: 4
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    5:
+      row: 1
+      col: 5
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    6:
+      row: 1
+      col: 6
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    7:
+      row: 1
+      col: 7
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    8:
+      row: 1
+      col: 8
+      item: RED_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    9:
+      row: 1
+      col: 9
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    10:
+      row: 2
+      col: 1
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    11:
+      row: 2
+      col: 2
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    12:
+      row: 2
+      col: 3
+      item: RED_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    13:
+      row: 2
+      col: 4
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    14:
+      row: 2
+      col: 5
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    15:
+      row: 2
+      col: 6
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    16:
+      row: 2
+      col: 7
+      item: RED_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    17:
+      row: 2
+      col: 8
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    18:
+      row: 2
+      col: 9
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    19:
+      row: 3
+      col: 1
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    20:
+      row: 3
+      col: 2
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    21:
+      row: 3
+      col: 3
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    22:
+      row: 3
+      col: 4
+      item: RED_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    23:
+      row: 3
+      col: 5
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    24:
+      row: 3
+      col: 6
+      item: RED_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    25:
+      row: 3
+      col: 7
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    26:
+      row: 3
+      col: 8
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    27:
+      row: 3
+      col: 9
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    28:
+      row: 4
+      col: 1
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    29:
+      row: 4
+      col: 2
+      item: EXPERIENCE_BOTTLE
+      amount: 1
+      name: '&aCategoria I &8| &bNovato'
+      lore:
+        - '&bClick para ver los retos!'
+      redirect: 1
+    30:
+      row: 4
+      col: 3
+      item: EXPERIENCE_BOTTLE
+      amount: 1
+      name: '&aCategoria I &8| &ePrincipiante'
+      lore:
+        - '&bClick para ver los retos!'
+      redirect: 2
+    31:
+      row: 4
+      col: 4
+      item: EXPERIENCE_BOTTLE
+      amount: 1
+      name: '&aCategoria I &8| &dAvanzado'
+      lore:
+        - '&bClick para ver los retos!'
+      redirect: 3
+    32:
+      row: 4
+      col: 5
+      item: RED_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+    33:
+      row: 4
+      col: 6
+      item: EXPERIENCE_BOTTLE
+      amount: 1
+      name: '&aCategoria I &8| &cExperimentado'
+      lore:
+        - '&bClick para ver los retos!'
+      redirect: 4
+    34:
+      row: 4
+      col: 7
+      item: EXPERIENCE_BOTTLE
+      amount: 1
+      name: '&aCategoria I &8| &6Profesional'
+      lore:
+        - '&bClick para ver los retos!'
+      redirect: 5
+    35:
+      row: 4
+      col: 8
+      item: EXPERIENCE_BOTTLE
+      amount: 1
+      name: '&aCategoria I &8| &6Experto'
+      lore:
+        - '&bClick para ver los retos!'
+      redirect: 6
+    36:
+      row: 4
+      col: 9
+      item: BLACK_STAINED_GLASS_PANE
+      amount: 1
+      name: ''
+      lore:
+        - ''
+
+challenges:
+  '1':
+    # The id of the category
+    id: 1
+    # The name of the category
+    name: '&aSkyBlock &8| &bNovato'
+    # All challenges
+    challenges:
+      '1':
+        # The id of the challenge
+        id: 1
+        # The name of the challenge
+        name: '&2&lMinero I'
+        # The requirement
+        # ITEM:<item> <count> ==> the player needs <count> <item>
+        # LEVEL:<level> ==> the player's island needs to be at least <level> level
+        # NEAR:<EntityType> <amount> ==> <amount> of <EntityType> must be next to the player
+        # POTION:<PotionType> <data> <amount>
+        # data must be: 0 = normal potion, 1 = extended, 2 = ++, 3 = splash, 4 = splash extended, 5 = splash ++, 6 = lingering, 7 = lingering extended, 8 = lingering ++
+        require:
+          - 'ITEM:cobblestone 256'
+        # The reward
+        # ITEM:<item> <count> means the player will have <count> <item> when the challenge is done
+        # CMD:<cmd> means a command will be executed by the console when the challenge is done
+        reward:
+          - 'CMD:eco give {player} 100'
+          - 'ITEM:iron_ingot 3'
+          - 'ITEM:iron_pickaxe 1'
+          - 'ITEM:name_tag 1'
+        # The maximum amount of time this challenge is repeatable
+        maxtimes: 10
+        # If true, broadcast a message when this challenge is completed
+        showInChat: true
+        item:
+          show: true
+          # The position in inventory
+          row: 1
+          col: 3
+          # The item
+          item: cobblestone
+          # The amount of this item
+          amount: 1
+          # The lore of this item
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 4 Stacks de roca'
+            - '&a&l&oRecompensa:'
+            - '&e- 16 Lingotes de hierro'
+            - '&e- 1 Etiqueta'
+            - '&e- 1 Pico de hierro'
+            - '&e- 100 $'
+      '2':
+        id: 2
+        name: '&2&lLeñador I'
+        require:
+          - 'ITEM:oak_log 256'
+        reward:
+          - 'CMD:eco give {player} 100'
+          - 'ITEM:iron_axe 1'
+          - 'ITEM:oak_sapling 2'
+          - 'ITEM:birch_sapling 2'
+          - 'ITEM:spruce_sapling 2'
+          - 'ITEM:jungle_sapling 2'
+          - 'ITEM:acacia_sapling 2'
+          - 'ITEM:dark_oak_sapling 4'
+        maxtimes: 10
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 4
+          item: oak_log
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 4 stacks de troncos de roble'
+            - '&a&l&oRecompensa:'
+            - '&e- 1 Hacha de hierro'
+            - '&e- 2 Brotes de roble'
+            - '&e- 2 Brotes de abedul'
+            - '&e- 2 Brotes de abeto'
+            - '&e- 2 Brotes de arbol de jungla'
+            - '&e- 2 Brotes de acacia'
+            - '&e- 2 Brotes de roble oscuro'
+            - '&e- 100 $'
+      '3':
+        id: 3
+        name: '&2&lPintor I'
+        require:
+          - 'ITEM:green_dye 64'
+          - 'ITEM:red_dye 64'
+          - 'ITEM:yellow_dye 64'
+        reward:
+          - 'CMD:eco give {player} 100'
+          - 'ITEM:sand 4'
+        maxtimes: 10
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 5
+          item: cactus
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 1 Stack de tinte verde'
+            - '&e- 1 Stack de tinte rojo'
+            - '&e- 1 Stack de tinte amarillo'
+            - '&a&l&oRecompensa:'
+            - '&e- 5 bloques de arena'
+            - '&e- 100 $'
+      '4':
+        id: 4
+        name: '&2&lGranjero'
+        require:
+          - 'ITEM:wheat 256'
+        reward:
+          - 'CMD:eco give {player} 100'
+          - 'ITEM:potato 2'
+          - 'ITEM:carrot 2'
+          - 'ITEM:chicken_spawn_egg 1'
+          - 'ITEM:pig_spawn_egg 1'
+        maxtimes: 4
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 6
+          item: bread
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 4 stacks de trigo'
+            - '&a&l&aRecompensa:'
+            - '&e- 2 Patatas'
+            - '&e- 2 Zanahorias'
+            - '&e- 1 SpawnEgg de pollo'
+            - '&e- 1 SpawnEgg de cerdo'
+            - '&e- 100 $'
+      '5':
+        id: 5
+        name: '&2&lVidriero'
+        require:
+          - 'ITEM:glass 16'
+        reward:
+          - 'CMD:eco give {player} 100'
+          - 'ITEM:mycelium 1'
+          - 'ITEM:brown_mushroom 2'
+          - 'ITEM:red_mushroom 2'
+        maxtimes: 4
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 7
+          item: glass
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 16 Bloques de cristal'
+            - '&a&l&oRecompensa:'
+            - '&e- 1 Bloque de micelio'
+            - '&e- 2 Champis marrones'
+            - '&e- 2 Champis rojos'
+            - '&e- 100 $'
+      '6':
+        id: 6
+        name: '&2&lEscritor'
+        require:
+          - 'ITEM:paper 256'
+        reward:
+          - 'CMD:eco give {player} 100'
+          - 'ITEM:dirt 4'
+          - 'ITEM:clay 4'
+          - 'ITEM:leather 32'
+        maxtimes: 4
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 4
+          item: paper
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 4 Stacks de hojas de papel'
+            - '&a&l&oRecompensa:'
+            - '&e- 4 Bloques de tierra'
+            - '&e- 4 Bloques de arcilla'
+            - '&e- 32 Cueros'
+            - '&e- 100 $'
+      '7':
+        id: 7
+        name: '&2&lFrutero'
+        require:
+          - 'ITEM:apple 16'
+        reward:
+          - 'CMD:eco give {player} 100'
+          - 'ITEM:grass_block 4'
+          - 'ITEM:pumpkin_seeds 2'
+          - 'ITEM:melon_seeds 2'
+          - 'ITEM:coca_beans 2'
+        maxtimes: 4
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 5
+          item: apple
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 16 Manzanas'
+            - '&a&l&oRecompensa:'
+            - '&e- 4 Bloques de césped'
+            - '&e- 2 Semillas de calabaza'
+            - '&e- 2 Semillas de sandia'
+            - '&e- 2 Semillas de cacao'
+            - '&e- 100 $'
+      '8':
+        id: 8
+        name: '&2&lHerrero'
+        require:
+          - 'ITEM:stone_pickaxe 8'
+          - 'ITEM:stone_axe 8'
+          - 'ITEM:stone_shovel 8'
+        reward:
+          - 'ITEM:iron_sword 1'
+          - 'ITEM:iron_helmet 1'
+          - 'ITEM:iron_chestplate 1'
+          - 'ITEM:iron_leggings 1'
+          - 'ITEM:iron_boots 1'
+        maxtimes: 4
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 6
+          item: iron_sword
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 8 Picos de piedra'
+            - '&e- 8 Hachas de piedra'
+            - '&e- 8 Palas de piedra'
+            - '&a&l&oRecompensa:'
+            - '&e- 1 Espada de hierro'
+            - '&e- 1 Casco de hierro'
+            - '&e- 1 Peto de hierro'
+            - '&e- 1 Greba de hierro'
+            - '&e- 1 Botas de hierro'
+      '9':
+        id: 9
+        name: '&2&lNivel de isla 100'
+        require:
+          - 'LEVEL:100'
+        reward:
+          - 'CMD:eco give {player} 5000'
+          - 'ITEM:diamond 2'
+          - 'ITEM:redstone 16'
+          - 'ITEM:lapis_block 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 3
+          col: 5
+          item: bedrock
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- Tener tu isla a nivel 100'
+            - '&a&l&oRecompensa:'
+            - '&e- 2 Diamantes'
+            - '&e- 16 Polvo de redstone'
+            - '&e- 1 Bloque de lapis lazuli'
+            - '&e- 5000 $'
+  '2':
+    id: 2
+    name: '&aSkyBlock &8| &ePrincipiante'
+    # All challenges
+    challenges:
+      '1':
+        id: 1
+        name: '&2&lCocinero'
+        require:
+          - 'ITEM:cake 16'
+          - 'ITEM:pumpkin_pie 16'
+          - 'ITEM:coockie 256'
+        reward:
+          - 'CMD:eco give {player} 500'
+          - 'ITEM:cow_spawn_egg 1'
+        maxtimes: 4
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 3
+          item: cake
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 16 Tartas'
+            - '&e- 16 Tartas de calabaza'
+            - '&e- 4 Stacks de galletas'
+            - '&a&l&oRecompensa:'
+            - '&e- 1 S  pawnEgg de vaca'
+            - '&e- 500 $'
+      '2':
+        id: 2
+        name: '&2&lCazador'
+        require:
+          - 'ITEM:rotten_flesh 128'
+          - 'ITEM:string 128'
+          - 'ITEM:gunpowder 128'
+          - 'ITEM:arrow 128'
+          - 'ITEM:bone 128'
+        reward:
+          - 'CMD:eco give {player} 500'
+          - 'ITEM:sponge 1'
+          - 'ITEM:vine 1'
+          - 'ITEM:anvil 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 4
+          item: bow
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 2 Stacks de carne podrida'
+            - '&e- 2 Stacks de hilos'
+            - '&e- 2 Stacks de polvora'
+            - '&e- 2 Stacks de flechas'
+            - '&e- 2 Stacks de huesos'
+            - '&a&l&oRecompensa:'
+            - '&e- 1 Esponja'
+            - '&e- 1 Enredadera'
+            - '&e- 1 Yunque'
+            - '&e- 500 $'
+      '3':
+        id: 3
+        name: '&2&lGranjero II'
+        require:
+          - 'ITEM:wheat 128'
+          - 'ITEM:sugar_cane 128'
+          - 'ITEM:melon 128'
+          - 'ITEM:pumpkin 128'
+          - 'ITEM:carrot 128'
+          - 'ITEM:potato 128'
+        reward:
+          - 'ITEM:cocoa_beans 5'
+          - 'ITEM:sheep_spawn_egg 1'
+        maxtimes: 3
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 5
+          item: diamond_hoe
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 2 Stacks de trigo'
+            - '&e- 2 Stacks de caña de azúcar'
+            - '&e- 2 Stacks de sandía'
+            - '&e- 2 Stacks de calabazas'
+            - '&e- 2 Stacks de zanahorias'
+            - '&e- 2 Stacks de patatas'
+            - '&a&l&oRecompensa:'
+            - '&e- 5 cocoa beans'
+            - '&e- 1 sheep spawn egg'
+      '4':
+        id: 4
+        name: '&2&lPescador'
+        require:
+          - 'ITEM:cooked_cod 64'
+          - 'ITEM:cooked_salmon 32'
+        reward:
+          - 'CMD:eco give {player} 300'
+          - 'ITEM:ink_sac 16'
+          - 'ITEM:chicken_spawn_egg 1'
+        maxtimes: 5
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 6
+          item: fishing_rod
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 64 de Salmón cocinado'
+            - '&e- 32 de Bacalao cocinado'
+            - '&a&l&oRecompensa:'
+            - '&e- 16 Sacos de tinta'
+            - '&e- 1 SpawnEgg de pollo'
+            - '&e- 300 $'
+      '5':
+        id: 5
+        name: '&2&lRepostería'
+        require:
+          - 'ITEM:cookie 256'
+          - 'ITEM:milk_bucket 2'
+        reward:
+          - 'CMD:eco give {player} 250'
+          - 'ITEM:emerald_block 3'
+        maxtimes: 5
+        showInChat: false
+        item:
+          show: true
+          row: 1
+          col: 7
+          item: cookie
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 256 Stacks de galletas'
+            - '&e- 2 Cubos con leche'
+            - '&a&l&oRecompensa:'
+            - '&e- 3 Bloques de esmeralda'
+            - '&e- 250 $'
+      '6':
+        id: 6
+        name: '&2&lHogar, dulce hogar..!'
+        require:
+          - 'ITEM:oak_door 2'
+          - 'ITEM:white_bed 2'
+          - 'ITEM:bookshelf 2'
+          - 'ITEM:crafting_table 2'
+          - 'ITEM:glass 2'
+          - 'ITEM:torch 2'
+        reward:
+          - 'ITEM:lapis_block 10'
+          - 'ITEM:diamond 5
+        maxtimes: 1
+        showInChat: false
+        item:
+          show: true
+          row: 2
+          col: 4
+          item: white_bed
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 2 Puertas de roble'
+            - '&e- 2 Camas'
+            - '&e- 2 Librerías'
+            - '&e- 2 Mesas de crafteo'
+            - '&e- 2 Bloques de cristal'
+            - '&e- 2 Antorchas'
+            - '&a&l&oRecompensa:'
+            - '&e- 10 Bloques de lapis lazuli'
+            - '&e- 5 Diamantes'
+      '7':
+        id: 7
+        name: '&2&l¡Mejores amigos!'
+        require:
+          - 'NEAR:PLAYER 10'
+        reward:
+          - 'CMD:eco give {player} 500'
+          - 'ITEM:slime_block 16'
+          - 'ITEM:iron_ingot 32'
+          - 'ITEM:jukebox 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 5
+          item: oak_door
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 10 Jugadores cerca de ti'
+            - '&a&l&oRecompensa:'
+            - '&e- 16 Bloques de slime'
+            - '&e- 32 Lingotes de hierro'
+            - '&e- 1 Tocadiscos'
+            - '&e- 500 $'
+      '8':
+        id: 8
+        name: '&2&lEl elemento oscuro'
+        require:
+          - 'ITEM:obsidian 14'
+          - 'ITEM:flint_and_steel 1'
+          - 'ITEM:charcoal 256'
+        reward:
+          - 'CMD:eco give {player} 500'
+          - 'ITEM:brewing_stand 1'
+          - 'ITEM:magma_cream 3'
+          - 'ITEM:blaze_rod 3'
+          - 'ITEM:nether_wart 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 6
+          item: obsidian
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 14 Bloques de obsidiana'
+            - '&e- 4 Stacks de carbón vegetal'
+            - '&e- 1 Mechero
+            - '&a&l&oRecompensa:'
+            - '&e- 1 Soporte para pociones'
+            - '&e- 3 Crema de magma
+            - '&e- 3 Varas de blaze
+            - '&e- 1 Verruga del nether
+            - '&e- 500 $'
+      '9':
+        id: 9
+        name: '&a&lNivel de isla 750'
+        require:
+          - 'LEVEL:750'
+        reward:
+          - 'CMD:eco give {player} 2000'
+          - 'ITEM:diamond_block 3'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 3
+          col: 5
+          item: experience_bottle
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- Lleva tu isla a nivel 750'
+            - '&a&l&oRecompensa:'
+            - '&e- 3 Bloques de diamante'
+            - '&e- 2 000 $'
+  '3':
+    id: 3
+    name: '&aSkyBlock &8| &dSemi-experimentado'
+    # All challenges
+    challenges:
+      '1':
+        id: 1
+        name: '&2&lEsquilador'
+        require:
+          - 'ITEM:white_wool 32'
+          - 'ITEM:orange_wool 32'
+          - 'ITEM:magenta_wool 32'
+          - 'ITEM:light_blue_wool 32'
+          - 'ITEM:yellow_wool 32'
+          - 'ITEM:lime_wool 32'
+          - 'ITEM:pink_wool 32'
+          - 'ITEM:gray_wool 32'
+          - 'ITEM:light_gray_wool 32'
+          - 'ITEM:cyan_wool 32'
+          - 'ITEM:purple_wool 32'
+          - 'ITEM:blue_wool 32'
+          - 'ITEM:brown_wool 32'
+          - 'ITEM:green_wool 32'
+          - 'ITEM:red_wool 32'
+          - 'ITEM:black_wool 32'
+        reward:
+          - 'CMD:eco give {player} 500'
+          - 'ITEM:gold_block 5'
+          - 'ITEM:grass_block 3'
+        maxtimes: 5
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 3
+          item: pink_wool
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 32 Lanas de cada color'
+            - '&a&l&oRecompensa:'
+            - '&e- 5 Bloques de oro'
+            - '&e- 3 Bloques de césped'
+            - '&e- 500 $'
+      '2':
+        id: 2
+        name: '&2&lVidriero II'
+        require:
+          - 'ITEM:white_stained_glass 48'
+          - 'ITEM:orange_stained_glass 48'
+          - 'ITEM:light_blue_stained_glass 48'
+          - 'ITEM:yellow_stained_glass 48'
+          - 'ITEM:lime_stained_glass 48'
+          - 'ITEM:pink_stained_glass 48'
+          - 'ITEM:gray_stained_glass 48'
+          - 'ITEM:light_gray_stained_glass 48'
+          - 'ITEM:cyan_stained_glass 48'
+          - 'ITEM:purple_stained_glass 48'
+          - 'ITEM:blue_stained_glass 48'
+          - 'ITEM:brown_stained_glass 48'
+          - 'ITEM:magenta_stained_glass 48'
+          - 'ITEM:green_stained_glass 48'
+          - 'ITEM:red_stained_glass 48'
+          - 'ITEM:black_stained_glass 48'
+        reward:
+          - 'CMD:eco give {player} 1000'
+          - 'ITEM:emerald_block 8'
+          - 'CMD:minecraft:give {player} enchanted_book{StoredEnchantments:[{id:"minecraft:mending",lvl:1s}]} 3'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 4
+          item: glass
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 48 blocks of glass for each color'
+            - '&a&l&oRecompensa:'
+            - '&e- 8 Bloques de esmeralda'
+            - '&e- 3 Libros de reparación'
+            - '&e- 1000 $'
+      '3':
+        id: 3
+        name: '&2&lEl Nether'
+        require:
+          - 'ITEM:blaze_rod 64'
+          - 'ITEM:ghast_tear 10'
+          - 'ITEM:magma_cream 32'
+          - 'ITEM:magma_block 32'
+        reward:
+          - 'CMD:eco give {player} 500'
+          - 'ITEM:glowstone 128'
+          - 'ITEM:whiter_skeleton_skull 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 5
+          item: blaze_rod
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 1 Stack de varas de blaze'
+            - '&e- 10 Lagrimas de ghast'
+            - '&e- 32 de Crema de magma'
+            - '&e- 32 Bloques de magma'
+            - '&a&l&oRecompensa:'
+            - '&e- 2 Stacks de piedra luminosa'
+            - '&e- 1 Cabeza de esqueleto whiter'
+            - '&e- 500 $'
+      '4':
+        id: 4
+        name: '&2&lCocinero II'
+        require:
+          - 'ITEM:cooked_porkchop 64'
+          - 'ITEM:cooked_chicken 64'
+          - 'ITEM:cooked_rabbit 64'
+          - 'ITEM:cooked_mutton 64'
+          - 'ITEM:cooked_beef 64'
+          - 'ITEM:beetroot_soup 6'
+          - 'ITEM:mushroom_stew 6'
+        reward:
+          - 'CMD:eco give {player} 300'
+          - 'ITEM:ink_sac 64'
+          - 'ITEM:rabbit_spawn_egg 1'
+        maxtimes: 3
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 6
+          item: furnace
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 1 Stack de carne de cerdo cocinada'
+            - '&e- 1 Stack de carne de pollo cocinada'
+            - '&e- 1 Stack de carne de conejo cocinada'
+            - '&e- 1 Stack de carne de oveja cocinada'
+            - '&e- 1 Stack de carne de vaca cocinada'
+            - '&e- 6 Estofados de remolacha'
+            - '&e- 6 Estofados de champiñón'
+            - '&a&l&oRecompensa:'
+            - '&e- 1 Stack de sacos de tinta'
+            - '&e- 1 SpawnEgg de conejo'
+            - '&e- 300 $'
+      '5':
+        id: 5
+        name: '&2&lEl End'
+        require:
+          - 'ITEM:ender_pearl 64'
+        reward:
+          - 'CMD:eco give {player} 500'
+          - 'ITEM:ender_chest 1'
+          - 'ITEM:redstone_block 5'
+        maxtimes: 3
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 7
+          item: ender_pearl
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 4 Stacks de perlas de ender &6(64 en total)'
+            - '&a&l&oRecompensa:'
+            - '&e- 1 Cofre del end'
+            - '&e- 5 Bloques de redstone'
+            - '&e- 500 $'
+      '6':
+        id: 6
+        name: '&2&lAsunto viscoso'
+        require:
+          - 'ITEM:slime_block 128'
+        reward:
+          - 'CMD:eco give {player} 15000'
+          - 'ITEM:gold_block 15'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 4
+          item: slime_ball
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 2 Stacks de bloques de slime'
+            - '&a&l&oRecompensa:'
+            - '&e- 10 Bloques de oro'
+            - '&e- 20000 $'
+      '7':
+        id: 7
+        name: '&2&lAventura por el nether'
+        require:
+          - 'ITEM:map 1'
+          - 'ITEM:compass 1'
+          - 'ITEM:clock 1'
+          - 'ITEM:nether_bricks 128'
+          - 'ITEM:soul_sand 64'
+          - 'ITEM:ghast_tear 5'
+        reward:
+          - 'ITEM:dirt 10'
+          - 'ITEM:sand 10'
+          - 'ITEM:whiter_skeleton_skull 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 5
+          item: lava_bucket
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 1 Mapa'
+            - '&e- 1 Brújula'
+            - '&e- 1 Reloj'
+            - '&e- 2 Stacks de ladrillos del nether'
+            - '&e- 1 Stack de arena de almas'
+            - '&e- 5 Lagrimas de ghast'
+            - '&a&l&oRecompensa:'
+            - '&e- 10 Bloques de tierra'
+            - '&e- 10 Bloques de arena'
+            - '&e- 1 Cabeza de esqueleto whiter'
+      '8':
+        id: 8
+        name: '&2&lA trabajar..!'
+        require:
+          - 'ITEM:jukebox 10'
+          - 'ITEM:anvil 10'
+          - 'ITEM:trapped_chest 10'
+        reward:
+          - 'ITEM:powered_rail 16'
+          - 'ITEM:rail 32'
+          - 'ITEM:gold_block 8'
+        maxtimes: 3
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 6
+          item: ladder
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 10 Tocadiscos'
+            - '&e- 10 Yunques'
+            - '&e- 10 Cofres trampa'
+            - '&a&l&oRecompensa:'
+            - '&e- 16 Raíles propulsores'
+            - '&e- 32 Raíles'
+            - '&e- 8 Bloques de oro'
+      '9':
+        id: 9
+        name: '&2&lNivel de isla 2000'
+        require:
+          - 'LEVEL:2000'
+        reward:
+          - 'CMD:eco give {player} 5000'
+          - 'ITEM:diamond_block 8'
+          - 'ITEM:iron_block 32'
+          - 'ITEM:emerald_block 8'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 3
+          col: 5
+          item: experience_bottle
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- Lleva tu isla a nivel 2000'
+            - '&a&l&oRecompensa:'
+            - '&e- 8 Bloques de diamante'
+            - '&e- 32 Bloques de hierro'
+            - '&e- 8 Bloques de esmeralda'
+            - '&e- 5000 $'
+  '4':
+    id: 4
+    name: '&aSkyBlock &8| &cExperimentado'
+    # All challenges
+    challenges:
+      '1':
+        id: 1
+        name: '&2&lLos vecinos'
+        require:
+          - 'NEAR:villager 10'
+        reward:
+          - 'CMD:eco give {player} 1500'
+          - 'ITEM:emerald_block 8'
+          - 'ITEM:wolf_spawn_egg 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 3
+          item: villager_spawn_egg
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 10 Aldeanos cerca de ti'
+            - '&a&l&oRecompensa:'
+            - '&e- 8 Bloques de esmeralda'
+            - '&e- 1 SpawnEgg de lobo'
+            - '&e- 1500 $'
+      '2':
+        id: 2
+        name: '&2&lMinero de nacimiento'
+        require:
+          - 'ITEM:powered_rail 32'
+          - 'ITEM:detector_rail 16'
+          - 'ITEM:activator_rail 16'
+          - 'ITEM:minecart 4'
+        reward:
+          - 'CMD:eco give {player} 500'
+          - 'ITEM:redstone_block 16'
+          - 'ITEM:hopper 16'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 4
+          item: rail
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 32 Raíles propulsores'
+            - '&e- 16 Raíles detectores'
+            - '&e- 16 Raíles activadores'
+            - '&e- 4 Vagonetas'
+            - '&a&l&oRecompensa:'
+            - '&e- 16 Bloques de redstone'
+            - '&e- 16 Tolvas'
+            - '&e- 500 $'
+      '3':
+        id: 3
+        name: '&2&lHechicero'
+        require:
+          - 'POTION:STRENGTH 0 1'
+          - 'POTION:WEAKNESS 0 1'
+          - 'POTION:INVISIBILITY 0 1'
+          - 'POTION:FIRE_RESISTANCE 0 1'
+          - 'POTION:SPEED 0 1'
+          - 'POTION:SLOWNESS 0 1'
+          - 'POTION:NIGHT_VISION 0 1'
+          - 'POTION:REGEN 0 1'
+          - 'POTION:WATER_BREATHING 0 1'
+        reward:
+          - 'CMD:eco give {player} 2000'
+          - 'ITEM:iron_block 32'
+          - 'ITEM:diamond_block 4'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 5
+          item: brewing_stand
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 1 Poción de fuerza'
+            - '&e- 1 Poción de debilidad'
+            - '&e- 1 Poción de debilidad'
+            - '&e- 1 Poción ignífuga'
+            - '&e- 1 Poción de velocidad'
+            - '&e- 1 Poción de lentitud'
+            - '&e- 1 Poción de visión nocturna'
+            - '&e- 1 Poción de regeneración'
+            - '&e- 1 Poción de respiración acuatica'
+            - '&c&lRecompensa:'
+            - '&e- 32 Bloques de hierro'
+            - '&e- 4 Bloques de diamante'
+            - '&e- 2000 $'
+      '4':
+        id: 4
+        name: '&2&lGuerrero'
+        require:
+          - 'NEAR:creeper 1'
+          - 'NEAR:witch 1'
+          - 'NEAR:zombie 1'
+          - 'NEAR:skeleton 1'
+          - 'NEAR:spider 1'
+        reward:
+          - 'CMD:eco give {player} 15000'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 6
+          item: diamond_sword
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&6Tener los siguientes mobs cerca de ti:'
+            - '&e- 1 creeper'
+            - '&e- 1 witch'
+            - '&e- 1 zombie'
+            - '&e- 1 skeleton'
+            - '&e- 1 spider'
+            - '&a&l&oRecompensa:'
+            - '&e- 15000 $'
+      '5':
+        id: 5
+        name: '&2&lArmado hasta los dientes'
+        require:
+          - 'ITEM:iron_helmet 1'
+          - 'ITEM:iron_chestplate 1'
+          - 'ITEM:iron_leggings 1'
+          - 'ITEM:iron_boots 1'
+          - 'ITEM:leather_helmet 1'
+          - 'ITEM:leather_chestplate 1'
+          - 'ITEM:leather_leggings 1'
+          - 'ITEM:leather_boots 1'
+          - 'ITEM:golden_helmet 1'
+          - 'ITEM:golden_chestplate 1'
+          - 'ITEM:golden_leggings 1'
+          - 'ITEM:golden_boots 1'
+          - 'ITEM:diamond_helmet 1'
+          - 'ITEM:diamond_chestplate 1'
+          - 'ITEM:diamond_leggings 1'
+          - 'ITEM:diamond_boots 1'
+        reward:
+          - 'ITEM:redstone_block 15'
+          - 'ITEM:crossbow 1'
+          - 'ITEM:shield 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 7
+          item: diamond_chestplate
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 1 Armadura de diamante'
+            - '&e- 1 Armadura de oro'
+            - '&e- 1 Armadura de hierro'
+            - '&e- 1 Armadura de cuero'
+            - '&a&l&oRecompensa:'
+            - '&e- 15 Bloques de redstone'
+            - '&e- 1 Ballesta'
+            - '&e- 1 Escudo
+      '6':
+        id: 6
+        name: '&2&lPescador II'
+        require:
+          - 'ITEM:cod 64'
+          - 'ITEM:pufferfish 8'
+          - 'ITEM:salmon 32'
+          - 'ITEM:tropical_fish 5'
+        reward:
+          - 'CMD:eco give {player} 500'
+          - 'CMD:minecraft:give {player} minecraft:fishing_rod{Enchantments:[{id:"minecraft:mending",lvl:1}]} 1'
+        maxtimes: 3
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 4
+          item: fishing_rod
+          amount: 1
+          lore:
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 1 Stack de bacalao crudo'
+            - '&e- 8 Peces globo'
+            - '&e- 32 Salmones crudos'
+            - '&e- 5 Peces tropicales'
+            - '&a&l&oRewards:'
+            - '&e- 1 Caña de pescar con reparación'
+            - '&e- 500 $'
+      '7':
+        id: 7
+        name: '&2Scavenger'
+        require:
+          - 'ITEM:clock 3'
+          - 'ITEM:compass 5'
+          - 'ITEM:map 3'
+        reward:
+          - 'CMD:eco give {player} 1500'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 5
+          item: filled_map
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 3 clocks'
+            - '&e- 5 compasses'
+            - '&e- 3 maps'
+            - '&c&lRewards:'
+            - '&e- 1500 $'
+      '8':
+        id: 8
+        name: '&2&lHeroes'
+        require:
+          - 'ITEM:wither_skeleton_skull 9'
+        reward:
+          - 'CMD:eco give {player} 2000'
+        maxtimes: 3
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 6
+          item: wither_skeleton_skull
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 9 wither skeleton skulls'
+            - '&c&lRewards:'
+            - '&e- 2000 $'
+      '9':
+        id: 9
+        name: '&2Island level 3500'
+        require:
+          - 'LEVEL:3500'
+        reward:
+          - 'CMD:eco give {player} 4000'
+          - 'CMD:give {player} minecraft:spawner 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 3
+          col: 5
+          item: experience_bottle
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- Your island to be at level 3500'
+            - '&c&lRewards:'
+            - '&e- 1 spawner'
+            - '&e- 4000 $'
+  '5':
+    id: 5
+    name: '&aSkyBlock &8| &6Profesional'
+    # All challenges
+    challenges:
+      '1':
+        id: 1
+        name: '&2Clockmaker'
+        require:
+          - 'ITEM:redstone_block 32'
+          - 'ITEM:comparator 16'
+          - 'ITEM:repeater 32'
+          - 'ITEM:observer 16'
+        reward:
+          - 'CMD:eco give {player} 1000'
+          - 'ITEM:emerald_block 24'
+          - 'ITEM:redstone_block 48'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 3
+          item: clock
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 32 redstone blocks'
+            - '&e- 16 comparators'
+            - '&e- 32 repeaters'
+            - '&e- 16 observers'
+            - '&c&lReward:'
+            - '&e- 24 emerald blocks'
+            - '&e- 48 redstone blocks'
+            - '&e- 1000 $'
+      '2':
+        id: 2
+        name: '&2Artist'
+        require:
+          - 'ITEM:rose_red 64'
+          - 'ITEM:oak_log 64'
+          - 'ITEM:purple_dye 64'
+          - 'ITEM:cyan_dye 64'
+          - 'ITEM:light_gray_dye 64'
+          - 'ITEM:gray_dye 64'
+          - 'ITEM:pink_dye 64'
+          - 'ITEM:lime_dye 64'
+          - 'ITEM:dandelion_yellow 64'
+          - 'ITEM:light_blue_dye 64'
+          - 'ITEM:magenta_dye 64'
+          - 'ITEM:orange_dye 64'
+          - 'ITEM:cocoa_beans 64'
+          - 'ITEM:ink_sac 64'
+          - 'ITEM:bone_meal 64'
+          - 'ITEM:lapis_lazuli 64'
+        reward:
+          - 'CMD:eco give {player} 2000'
+          - 'ITEM:villager_spawn_egg 2'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 4
+          item: dandelion_yellow
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 1 stack of each color'
+            - '&c&lRewards:'
+            - '&e- 2 villager spawn eggs'
+            - '&e- 2000 $'
+      '3':
+        id: 3
+        name: '&2Atilla'
+        require:
+          - 'ITEM:dragon_egg 2'
+        reward:
+          - 'CMD:eco give {player} 5000'
+          - 'CMD:give {player} minecraft:spawner 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 5
+          item: dragon_egg
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 2 dragon eggs'
+            - '&c&lRewards:'
+            - '&e- 1 spawner'
+            - '&e- 5000 $'
+      '4':
+        id: 4
+        name: '&2Evoker'
+        require:
+          - 'ITEM:end_crystal 32'
+        reward:
+          - 'ITEM:beacon 1'
+          - 'ITEM:diamond_block 32'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 6
+          item: end_crystal
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 32 end crystals'
+            - '&c&lRewards:'
+            - '&e- 1 beacon'
+            - '&e- 32 diamond blocks'
+      '5':
+        id: 5
+        name: '&2Slayer'
+        require:
+          - 'ITEM:nether_star 9'
+        reward:
+          - 'CMD:es give {player} skeleton 1'
+          - 'CMD:eco give {player} 4000'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 7
+          item: nether_star
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 9 nether stars'
+            - '&c&lRewards:'
+            - '&e- 1 spawner'
+            - '&e- 4000 $'
+      '6':
+        id: 6
+        name: '&2Diver'
+        require:
+          - 'ITEM:sea_lantern 192'
+        reward:
+          - 'CMD:eco give {player} 1500'
+          - 'ITEM:iron_block 64'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 4
+          item: water_bucket
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 3 stacks of sea lanterns'
+            - '&c&lRewards:'
+            - '&e- 64 iron blocks'
+            - '&e- 1500 $'
+      '7':
+        id: 7
+        name: '&2Explorer of the End'
+        require:
+          - 'ITEM:chorus_flower 128'
+          - 'ITEM:end_rod 32'
+        reward:
+          - 'CMD:eco give {player} 2000'
+          - 'ITEM:dragon_head 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 5
+          item: end_stone
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 2 stacks of chorus flowers'
+            - '&e- 32 end rods'
+            - '&c&lRewards:'
+            - '&e- 1 dragon head'
+            - '&e- 2000 $'
+      '8':
+        id: 8
+        name: '&2Bannerman'
+        require:
+          - 'ITEM:black_banner 16'
+          - 'ITEM:red_banner 16'
+          - 'ITEM:green_banner 16'
+          - 'ITEM:brown_banner 16'
+          - 'ITEM:blue_banner 16'
+          - 'ITEM:purple_banner 16'
+          - 'ITEM:cyan_banner 16'
+          - 'ITEM:light_gray_banner 16'
+          - 'ITEM:gray_banner 16'
+          - 'ITEM:pink_banner 16'
+          - 'ITEM:lime_banner 16'
+          - 'ITEM:yellow_banner 16'
+          - 'ITEM:light_blue_banner 16'
+          - 'ITEM:magenta_banner 16'
+          - 'ITEM:orange_banner 16'
+          - 'ITEM:white_banner 16'
+        reward:
+          - 'CMD:eco give {player} 2000'
+          - 'CMD:give {player} minecraft:spawner 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 6
+          item: white_banner
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- 16 banners in every color'
+            - '&c&lRewards:'
+            - '&e- 1 spawner'
+            - '&e- 2000 $'
+      '9':
+        id: 9
+        name: '&2Island level 5000'
+        require:
+          - 'LEVEL:5000'
+        reward:
+          - 'CMD:eco give {player} 5000'
+          - 'CMD:give {player} minecraft:spawner 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 3
+          col: 5
+          item: experience_bottle
+          amount: 1
+          lore:
+            - '&c&lFor this challenge, you''ll need:'
+            - '&e- Your island to be at level 5000'
+            - '&c&lRewards:'
+            - '&e- 1 spawner'
+            - '&e- 5000 $'
+  '6':
+    id: 6
+    name: '&aSkyBlock &8| &6Profesional &b&l+'
+    # All challenges
+    challenges:
+      '1':
+        id: 1
+        name: '&2Obrero I'
+        require:
+          - 'ITEM:white_concrete 64'
+          - 'ITEM:orange_concrete 64'
+          - 'ITEM:magenta_concrete 64'
+          - 'ITEM:light_blue_concrete 64'
+          - 'ITEM:yellow_concrete 64'
+          - 'ITEM:lime_concrete 64'
+          - 'ITEM:pink_concrete 64'
+          - 'ITEM:gray_concrete 64'
+          - 'ITEM:light_gray_concrete 64'
+          - 'ITEM:cyan_concrete 64'
+          - 'ITEM:purple_concrete 64'
+          - 'ITEM:blue_concrete 64'
+          - 'ITEM:brown_concrete 64'
+          - 'ITEM:green_concrete 64'
+          - 'ITEM:red_concrete 64'
+          - 'ITEM:black_concrete 64'
+        reward:
+          - 'CMD:eco give {player} 2500'
+          - 'ITEM:nether_star 2'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 3
+          item: blue_concrete
+          amount: 1
+          lore:
+            - '&c&lPara completar este reto, necesitas:'
+            - '&e- 1 stack de cada color de concreto'
+            - '&c&lRecompensas:'
+            - '&e- 2 estrellas del nether'
+            - '&e- 2500 $'
+      '2':
+        id: 2
+        name: '&2Escalera al cielo...'
+        require:
+          - 'ITEM:oak_stairs 64'
+          - 'ITEM:spruce_stairs 64'
+          - 'ITEM:birch_stairs 64'
+          - 'ITEM:jungle_stairs 64'
+          - 'ITEM:acacia_stairs 64'
+          - 'ITEM:dark_oak_stairs 64'
+          - 'ITEM:nether_brick_stairs 64'
+          - 'ITEM:quartz_stairs 64'
+          - 'ITEM:purpur_stairs 64'
+        reward:
+          - 'CMD:eco give {player} 3000'
+          - 'ITEM:diamond_block 16'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 4
+          item: oak_stairs
+          amount: 1
+          lore:
+            - '&c&lPara completar este reto, necesitas:'
+            - '&e- 1 stack de cada tipo de escaleras de madera'
+            - '&e- 1 stack de escaleras de ladrillo del nether'
+            - '&e- 1 stack de escaleras de cuarzo'
+            - '&e- 1 stack de escaleras de purpur'
+            - '&c&lRecompensas:'
+            - '&e- 16 Bloques de diamante'
+            - '&e- 3000 $'
+      '3':
+        id: 3
+        name: '&2Explorador'
+        require:
+          - 'ITEM:purpur_block 256'
+          - 'ITEM:purpur_pillar 256'
+          - 'ITEM:purpur_slab 256'
+        reward:
+          - 'CMD:eco give {player} 15000'
+          - 'ITEM:shulker_box 3'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 5
+          item: end_portal_frame
+          amount: 1
+          lore:
+            - '&c&lPara completar este reto, necesitas:'
+            - '&e- 4 stacks de bloques de purpur'
+            - '&e- 4 stacks de pilares de purpur'
+            - '&e- 4 stacks de losas de purpur'
+            - '&c&lRecompensas:'
+            - '&e- 15000 $'
+            - '&e- 3 Cajas de shulker
+      '4':
+        id: 4
+        name: '&2Aliados'
+        require:
+          - 'NEAR:CHICKEN 1'
+          - 'NEAR:COW 1'
+          - 'NEAR:POLAR_BEAR 1'
+          - 'NEAR:RABBIT 1'
+          - 'NEAR:WOLF 1'
+          - 'NEAR:DONKEY 1'
+          - 'NEAR:HORSE 1'
+          - 'NEAR:MUSHROOM_COW 1'
+          - 'NEAR:SHEEP 1'
+          - 'NEAR:PARROT 1'
+          - 'NEAR:VILLAGER 1'
+          - 'NEAR:SKELETON_HORSE 1'
+        reward:
+          - 'CMD:eco give {player} 3000'
+          - 'ITEM:diamond_block 32'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 6
+          item: end_crystal
+          amount: 1
+          lore:
+            - '&c&lPara completar este reto, necesitas:'
+            - '&e-  En un radio de 30 bloques:'
+            - '&e   - 1 Pollo'
+            - '&e   - 1 Vaca'
+            - '&e   - 1 Oso polar
+            - '&e   - 1 Conejo'
+            - '&e   - 1 Lobo'
+            - '&e   - 1 Asno'
+            - '&e   - 1 Caballo'
+            - '&e   - 1 Champivaca'
+            - '&e   - 1 Oveja'
+            - '&e   - 1 Loro'
+            - '&e   - 1 Aldeano'
+            - '&e   - 1 Caballo esqueleto'
+            - '&c&lRecompensas:'
+            - '&e- 32 bloques de diamante'
+            - '&e- 3000 $'
+      '5':
+        id: 5
+        name: '&2El rey del desierto'
+        require:
+          - 'ITEM:sandstone 256'
+          - 'ITEM:acacia_log 512'
+          - 'ITEM:cactus 256'
+          - 'ITEM:sandstone_wall 256'
+          - 'ITEM:smooth_sandstone 256'
+        reward:
+          - 'ITEM:beacon 2'
+          - 'CMD:eco give {player} 3000'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 1
+          col: 7
+          item: sand
+          amount: 1
+          lore:
+            - '&c&lPara completar este reto, necesitas:'
+            - '&e- 4 stacks de arenisca'
+            - '&e- 8 stacks de troncos de acacia'
+            - '&e- 4 stacks de cactus'
+            - '&e- 4 stacks de muros de arenisca'
+            - '&e- 4 stacks of arenisca lisa'
+            - '&c&lRecompensas:'
+            - '&e- 2 faros'
+            - '&e- 3000 $'
+      '6':
+        id: 6
+        name: '&2Decorador'
+        require:
+          - 'ITEM:white_terracotta 64'
+          - 'ITEM:orange_terracotta 64'
+          - 'ITEM:magenta_terracotta 64'
+          - 'ITEM:light_blue_terracotta 64'
+          - 'ITEM:yellow_terracotta 64'
+          - 'ITEM:lime_terracotta 64'
+          - 'ITEM:pink_terracotta 64'
+          - 'ITEM:gray_terracotta 64'
+          - 'ITEM:light_gray_terracotta 64'
+          - 'ITEM:cyan_terracotta 64'
+          - 'ITEM:purple_terracotta 64'
+          - 'ITEM:blue_terracotta 64'
+          - 'ITEM:brown_terracotta 64'
+          - 'ITEM:green_terracotta 64'
+          - 'ITEM:red_terracotta 64'
+          - 'ITEM:black_terracotta 64'
+        reward:
+          - 'CMD:eco give {player} 50000'
+          - 'ITEM:redstone_block 64'
+          - 'ITEM:gold_block 32'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 4
+          item: white_terracotta
+          amount: 1
+          lore:
+            - '&c&lPara completar este reto, necesitas:'
+            - '&e- 1 stack de cada color de terracota'
+            - '&c&lRecompensas:'
+            - '&e- 2500 $'
+            - '&e- 64 Bloques de redstone'
+            - '&e- 32 Bloques de oro'
+      '7':
+        id: 7
+        name: '&2Obrero II'
+        require:
+          - 'ITEM:white_concrete_powder 128'
+          - 'ITEM:red_concrete_powder 128'
+          - 'ITEM:black_concrete_powder 128'
+          - 'ITEM:yellow_concrete_powder 128'
+          - 'ITEM:green_concrete_powder 128'
+          - 'ITEM:lime_concrete_powder 128'
+          - 'ITEM:purple_concrete_powder 128'
+          - 'ITEM:magenta_concrete_powder 128'
+          - 'ITEM:pink_concrete_powder 128'
+          - 'ITEM:gray_concrete_powder 128'
+          - 'ITEM:light_gray_concrete_powder 128'
+          - 'ITEM:light_blue_concrete_powder 128'
+          - 'ITEM:brown_concrete_powder 128'
+          - 'ITEM:orange_concrete_powder 128'
+          - 'ITEM:blue_concrete_powder 128'
+          - 'ITEM:cyan_concrete_powder 128'
+        reward:
+          - 'CMD:eco give {player} 3000'
+          - 'ITEM:enchanted_golden_apple 64'
+          - 'ITEM:golden_apple 16'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 5
+          item: white_concrete
+          amount: 1
+          lore:
+            - '&c&lPara completar este reto, necesitas:'
+            - '&e- 2 stacks de cada tipo de cemento'
+            - '&c&lRecompensas:'
+            - '&e- 3000 $'
+            - '&e- 64 Manzanas de oro encantadas'
+            - '&e- 16 Manzanas de oro'
+      '8':
+        id: 8
+        name: '&4EL RETO IMPOSIBLE'
+        require:
+          - 'ITEM:bedrock 5'
+          - 'ITEM:enchanting_table 32'
+          - 'ITEM:beacon 1'
+        reward:
+          - 'CMD:eco give {player} 100000'
+          - 'ITEM:prismarine 64'
+          - 'ITEM:trident 1'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 2
+          col: 6
+          item: barrier
+          amount: 1
+          lore:
+            - '&c&lPara completar este reto, necesitas'
+            - '&e- 5 Piedras base'
+            - '&e- 32 Mesas de encantamientos'
+            - '&e- 1 Faro'
+      '9':
+        id: 9
+        name: '&2Nivel de isla 15000'
+        require:
+          - 'LEVEL:15000'
+        reward:
+          - 'CMD:eco give {player} 15000'
+          - 'ITEM:dragon_breath 64'
+        maxtimes: 1
+        showInChat: true
+        item:
+          show: true
+          row: 3
+          col: 5
+          item: experience_bottle
+          amount: 1
+          lore:
+            - '&c&lPara completar este reto, necesitas:'
+            - '&e- Lleva tu isla a nivel 15000'
+            - '&c&lRecompensas:'
+            - '&e- 15000 $'
+            - '&e- 64 Aliento de dragón
       row: 1
       col: 4
       item: BLACK_STAINED_GLASS_PANE
