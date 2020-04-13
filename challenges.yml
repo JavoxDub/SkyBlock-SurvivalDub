@@ -439,7 +439,7 @@ challenges:
           lore:
             - '&a&lPara completar este reto necesitas:'
             - '&e- 4 stacks de trigo'
-            - '&a&l&aRecompensa:'
+            - '&a&l&oRecompensa:'
             - '&e- 2 Patatas'
             - '&e- 2 Zanahorias'
             - '&e- 1 SpawnEgg de pollo'
@@ -1210,7 +1210,7 @@ challenges:
           item: brewing_stand
           amount: 1
           lore:
-            - '&c&lFor this challenge, you''ll need:'
+            - '&a&lPara completar este reto necesitas:'
             - '&e- 1 Poción de fuerza'
             - '&e- 1 Poción de debilidad'
             - '&e- 1 Poción de debilidad'
@@ -1220,7 +1220,7 @@ challenges:
             - '&e- 1 Poción de visión nocturna'
             - '&e- 1 Poción de regeneración'
             - '&e- 1 Poción de respiración acuatica'
-            - '&c&lRecompensa:'
+            - '&a&l&oRecompensa:'
             - '&e- 32 Bloques de hierro'
             - '&e- 4 Bloques de diamante'
             - '&e- 2000 $'
@@ -1245,7 +1245,7 @@ challenges:
           amount: 1
           lore:
             - '&a&lPara completar este reto necesitas:'
-            - '&6Tener los siguientes mobs cerca de ti:'
+            - '&6&oTener los siguientes mobs cerca de ti'
             - '&e- 1 creeper'
             - '&e- 1 witch'
             - '&e- 1 zombie'
@@ -1349,24 +1349,26 @@ challenges:
             - '&e- 1500 $'
       '8':
         id: 8
-        name: '&2&lHeroes'
+        name: '&2&lHéroes'
         require:
-          - 'ITEM:wither_skeleton_skull 9'
+          - 'ITEM:skeleton_skull 16'
         reward:
-          - 'CMD:eco give {player} 2000'
+          - 'CMD:eco give {player} 10000'
+          - 'ITEM:whiter_skeleton_skull 1'
         maxtimes: 3
         showInChat: true
         item:
           show: true
           row: 2
           col: 6
-          item: wither_skeleton_skull
+          item: skeleton_skull
           amount: 1
           lore:
-            - '&e&lPara completar este reto necesitas:'
-            - '&e- 9 Cráneos de esqueletos del whiter'
-            - '&a&o&lRecompensa:'
-            - '&e- 2000 $'
+            - '&a&lPara completar este reto necesitas:'
+            - '&e- 16 Cabezas de esqueleto'
+            - '&a&l&oRecompensa:'
+            - '&e- 10000 $'
+            - '&e- 1 Cabeza de esqueleto whiter
       '9':
         id: 9
         name: '&2&lNivel de isla 3500'
@@ -1374,7 +1376,7 @@ challenges:
           - 'LEVEL:3500'
         reward:
           - 'CMD:eco give {player} 4000'
-          - 'ITEM:dirt 128'
+          - 'ITEM:dirt 64'
         maxtimes: 1
         showInChat: true
         item:
@@ -1387,7 +1389,7 @@ challenges:
             - '&a&lPara completar este reto necesitas:'
             - '&e- Lleva tu isla a nivel 3500'
             - '&a&l&oRecompensa:'
-            - '&e- 128 Bloques de tierra'
+            - '&e- 64 Bloques de tierra'
             - '&e- 4000 $'
   '5':
     id: 5
@@ -1399,11 +1401,11 @@ challenges:
         name: '&2&lRelojero'
         require:
           - 'ITEM:redstone_block 32'
-          - 'ITEM:comparator 16'
-          - 'ITEM:repeater 32'
-          - 'ITEM:observer 16'
+          - 'ITEM:comparator 64'
+          - 'ITEM:repeater 64'
+          - 'ITEM:observer 64'
         reward:
-          - 'CMD:eco give {player} 1000'
+          - 'CMD:eco give {player} 10000'
           - 'ITEM:emerald_block 15'
           - 'ITEM:redstone_block 48'
         maxtimes: 1
@@ -1415,15 +1417,15 @@ challenges:
           item: clock
           amount: 1
           lore:
-            - '&e&lPara completar este reto necesitas:'
+            - '&a&l&oPara completar este reto necesitas:'
             - '&e- 32 Bloques de redstone'
-            - '&e- 16 Comparadores de redstone'
-            - '&e- 32 Repetidores de redstone'
-            - '&e- 16 Observadores'
+            - '&e- 64 Comparadores de redstone'
+            - '&e- 64 Repetidores de redstone'
+            - '&e- 64 Observadores'
             - '&a&l&oRecompensa:'
             - '&e- 15 Bloques de esmeraldas'
             - '&e- 48 Bloques de redstone'
-            - '&e- 1000 $'
+            - '&e- 10000 $'
       '2':
         id: 2
         name: '&2&lArtista'
